@@ -1,0 +1,78 @@
+{
+  "pages": {
+    "28": { "id": "PB21RNrqlslxt6Rs", "background": "#ffffff", "title": "Her Scents",
+      "slots": [],
+      "text": [ { "el": "LBMjFwsdsG2DNffJ", "chars": "Her  Scents", "top": 512.1198115984653, "left": 290.50479868271736, "width": 250.9129573659381, "height": 56.41172152740474, "fontSize": 47.215482242552845, "color": "#000000", "letterSpacing": 0.086, "fontRef": "YAF3ubalrAg,0", "role": "heading" } ],
+      "decor": [ { "el": "LBRk3wnPXVykGcNG" }, { "el": "LBmZVv6lRp3VgMyb" }, { "el": "LBBFBRscfmp1JL5Y" }, { "el": "LB0np6blkrVnzkpB" } ],
+      "note": "NO customer photo slots — decorative stickers only. Likely needs slots added, or is intentionally a divider." },
+
+    "29": { "id": "PBqSqm1YB2LSBtNw", "background": "#ffffff", "title": "Beauty secrets",
+      "slots": [ { "el": "LBc6S82PmqpWm9CC", "top": 477.633897214755, "left": 219.6369223379783, "width": 380.9547856468394, "height": 250.14062471028896 } ],
+      "text": [ { "el": "LBkpsrmJfBt3Sq2s", "chars": "Beauty secrets", "top": 427.4991028740682, "left": 226.8540557695893, "width": 397.87598786910485, "height": 61.82680983824052, "fontSize": 51.74780281457998, "color": "#000000", "letterSpacing": 0.086, "fontRef": "YAF3ubalrAg,0", "role": "heading" } ],
+      "decor": [ { "el": "LBbPKpR2p1Ws7Ww2" }, { "el": "LBkWCKLGQgCx78xv" }, { "el": "LBNpMhNG2VdFMrDd" }, { "el": "LBVXJXZJgt3VX2yX" } ] },
+
+    "30": { "id": "PBP1KWLhHmH3HQdk", "background": "#000000", "title": "Photo grid (2-up stacked)",
+      "slots": [ { "el": "LBvVc67hw1Xh2jtM", "kind": "grid", "cells": ["a","b"], "templateAreas": ["a","b"], "top": 80.88188976377955, "left": 80.88188976377955, "width": 647.0551181102362, "height": 975.8740157480315 } ], "text": [], "decor": [] },
+
+    "31": { "id": "PBG5XRCCg58VBFrP", "background": "#e79db4", "title": "Single photo on pink",
+      "slots": [ { "el": "LBfRmr16tN7K1nkk", "top": 326.2037868027194, "left": 160.393010913936, "width": 535.6842799923318, "height": 457.8426580559463 } ], "text": [], "decor": [] },
+
+    "32": { "id": "PB1zP4BwbjHGMDbF", "background": "#000000", "title": "Story wall (14 rounded frames)",
+      "slots": [
+        { "el": "LBVlVgyvSfxyWpYj", "top": 89.28960705001954, "left": 81.04585780051045, "width": 208.92091673775963, "height": 129.16028271874004, "shape": "wide" },
+        { "el": "LB5rVn6pPX97XGFx", "top": 90.96961089243372, "left": 519.0160911362559, "width": 208.92091673775963, "height": 129.16028271874004, "shape": "wide" },
+        { "el": "LBJcDBshz2TF4KdG", "top": 35.83490519475464, "left": 299.94899045001785, "width": 208.9209167377596, "height": 322.90070679685016, "shape": "tall" },
+        { "el": "LBpGr9zzVdgNBWC0", "top": 229.36991474445207, "left": 80.88188976377957, "width": 208.9209167377596, "height": 322.9007067968501, "shape": "tall" },
+        { "el": "LB9h0Kf97wFKf4L8", "top": 229.36991474445207, "left": 518.8521230995251, "width": 208.9209167377596, "height": 322.9007067968501, "shape": "tall" },
+        { "el": "LBSLhW7x531h8STL", "top": 368.81563504609, "left": 299.8670064316523, "width": 208.9209167377596, "height": 215.26713786456676, "shape": "square" },
+        { "el": "LBh67H64LqTTP5nX", "top": 562.036871894102, "left": 80.88188976377955, "width": 208.92091673775963, "height": 129.16028271874, "shape": "wide" },
+        { "el": "LBT7pY7TYY5tRnhT", "top": 562.036871894102, "left": 518.852123099525, "width": 208.92091673775963, "height": 129.16028271874, "shape": "wide" },
+        { "el": "LB080HLLrFx6MRWz", "top": 594.3682104935548, "left": 299.94899045001785, "width": 208.92091673775963, "height": 129.16028271874, "shape": "wide" },
+        { "el": "LBSfChjgPVXFp1Zx", "top": 702.0430473456059, "left": 80.88188976377957, "width": 208.9209167377596, "height": 215.2671378645667, "shape": "square" },
+        { "el": "LBpqKkKSy6db5fKz", "top": 700.7479180826758, "left": 519.016091136256, "width": 208.9209167377596, "height": 215.2671378645667, "shape": "square" },
+        { "el": "LBSrBQTtWfLCpYkZ", "top": 733.855198714961, "left": 299.8670064316523, "width": 208.9209167377596, "height": 322.90070679685005, "shape": "tall" },
+        { "el": "LBr3tB65ctjYxB3T", "top": 927.5956227930707, "left": 81.04585780051042, "width": 208.92091673775963, "height": 129.16028271874, "shape": "wide" },
+        { "el": "LB7Z4wVnpWJjL8pl", "top": 917.3101852101729, "left": 512.8536614399683, "width": 208.92091673775963, "height": 129.16028271874, "shape": "wide" }
+      ], "text": [], "decor": [] },
+
+    "33": { "id": "PBGRyf2dqMz8HFlH", "background": "#000000", "title": "Top 10 Reasons... she is the best",
+      "slots": [
+        { "el": "LB0SqPzmWCM7Z8Mw", "top": 80.88188976377901, "left": 88.99998418896219, "width": 206.67199319232046, "height": 310.00798978848064, "shape": "tall" },
+        { "el": "LBxWZrJ5BylcGSMM", "top": 398.4961046830583, "left": 88.99998418896219, "width": 206.67199319232046, "height": 206.67199319232046, "shape": "square" },
+        { "el": "LBhKnWxch456Dk4n", "top": 615.4865574262083, "left": 88.99998418896217, "width": 206.67199319232049, "height": 124.00319591539228, "shape": "wide" },
+        { "el": "LBP968KwCK3gV7bP", "top": 746.7479157233304, "left": 88.99998418896224, "width": 206.6719931923204, "height": 310.0079897884806, "shape": "tall" }
+      ],
+      "text": [
+        { "el": "LB0VqmDfHKTn5t72", "chars": "Top 10 Reasons... / she is the best", "top": 111.11811023622032, "left": 342.3968122688916, "width": 344.60842708918784, "height": 177.17369621181584, "fontSize": 49.008820402780906, "color": "#ffffff", "letterSpacing": 0.109, "fontRef": "YAF3ubalrAg,0", "role": "heading" },
+        { "el": "LByvttDxqFfhpR5b", "chars": "1. <reason>", "top": 340.22973428207365, "left": 345.0240049430846, "width": 328.3426046523861, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LB7xzJqzk1WFFrQ3", "chars": "2. <reason>", "top": 397.73704056173267, "left": 342.54792892647356, "width": 308.03802731014366, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBTWkzv0nhYW1MM4", "chars": "3. <reason>", "top": 455.2443468413918, "left": 342.5479289264734, "width": 356.06712113686706, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBLy5c2zL3998wSx", "chars": "4. <reason>", "top": 516.6084003013498, "left": 345.02400494308444, "width": 356.06712113686706, "height": 19.445495196458968, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBL8Qd18s17R4wGD", "chars": "5. <reason>", "top": 582.4911186076931, "left": 345.02400494308444, "width": 356.06712113686706, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBFrKNsv7JVhWyQm", "chars": "6. <reason>", "top": 644.0718220494477, "left": 342.5479289264737, "width": 356.06712113686694, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBggSlYVnXclL2nG", "chars": "7. <reason>", "top": 714.1689084809682, "left": 342.54792892647345, "width": 353.5265666408097, "height": 42.151380922521014, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBWZ4QBwK9cZ7W4v", "chars": "8. <reason>", "top": 783.7812589327159, "left": 341.27765167844484, "width": 356.067121136867, "height": 42.15138092252101, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LB3flV1Jj7d74vrv", "chars": "9. <reason>", "top": 853.558131244268, "left": 342.5479289264737, "width": 356.0671211368669, "height": 19.445495196458964, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" },
+        { "el": "LBXwHzpSMmV3mgCx", "chars": "10. <reason>", "top": 929.6038188960777, "left": 342.5479289264737, "width": 356.0671211368669, "height": 42.15138092252101, "fontSize": 16.301952648015394, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-list-item" }
+      ],
+      "decor": [ { "el": "LBvP4mKNltLhSfSP", "note": "tape, recoloured white" } ] },
+
+    "34": { "id": "PBGdVXLlZd8dzpBS", "background": "#916d64", "title": "Photo grid (3 stacked)",
+      "slots": [ { "el": "LBwDsYMRMgxvng6y", "kind": "grid", "cells": ["a","b","c"], "templateAreas": ["a","b","c"], "top": 80.88188976377955, "left": 80.8818897637795, "width": 647.0551181102363, "height": 975.8740157480315 } ], "text": [], "decor": [] },
+
+    "35": { "id": "PBG9ZHJfR37J34hH", "background": "#000000", "title": "Full-page photo",
+      "slots": [ { "el": "LBkG7qffDddlPVBC", "kind": "shape", "top": 45.26924153503194, "left": 46.99665067966697, "width": 714.5959473461338, "height": 1040.2924262289616 } ], "text": [], "decor": [] },
+
+    "36": { "id": "PBzKK91nPCsnvFRW", "background": "#462632", "title": "Closing message",
+      "slots": [
+        { "el": "LBVrNWCnVhYLSPPm", "kind": "grid", "cells": ["a","b","c","d"], "templateAreas": ["a b","c d"], "top": 80.88188976377955, "left": 80.88188976377955, "width": 647.0551181102362, "height": 975.8740157480315 },
+        { "el": "LBgr8tGw3wsswkRv", "top": 369.21467874025416, "left": 238.40540033451558, "width": 359.8069860462661, "height": 338.88080512249985, "rotation": -4.100950498771821, "note": "note-card backing" },
+        { "el": "LB2kD2vT6lTsh9lj", "top": 320.37694826206564, "left": 292.16622009554044, "width": 241.33252906342597, "height": 112.21962601449309, "rotation": 6.213621912293573 }
+      ],
+      "text": [
+        { "el": "LB3kSvT2zfJJ9V8r", "chars": "Happy Birthday, my dear friend! ...", "top": 432.2305317810062, "left": 256.4356974896989, "width": 312.7935742751086, "height": 230.66053413886948, "rotation": -2.8027550708120477, "fontSize": 34.07925828152396, "color": "#050505", "align": "center", "fontRef": "YAGL3riVrnU,0", "role": "customer-longform" },
+        { "el": "LBLhMbzMjCn67WYl", "chars": "27/11/25", "top": 666.5169766182428, "left": 441.4666975793629, "width": 137.91759053785805, "height": 33.190794055325554, "rotation": -3.8680287112691505, "fontSize": 27.805644480018483, "color": "#9d4a4a", "align": "center", "fontRef": "YAGL3riVrnU,0", "role": "customer-field" }
+      ],
+      "decor": [ { "el": "LBP1L3HrTV9S9rWM" }, { "el": "LBw9gv6x5MLpnJqM" }, { "el": "LByF16dCMp04HLF7" }, { "el": "LB78cJ9xwfxWr4z0" } ] }
+  }
+}

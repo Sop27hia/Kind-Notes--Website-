@@ -1,0 +1,88 @@
+{
+  "pages": {
+    "9": {
+      "id": "PB1c8kBvpLWS3nL1", "background": "#ffffff", "title": "Wishes (2)",
+      "slots": [
+        { "el": "LBbHhTQF5qqS7pRZ", "top": 110.0098010895614, "left": 80.78176570130904, "width": 216.57396326735739, "height": 148.73419658225234 },
+        { "el": "LB8mHR8p8YYr9d2W", "top": 110.00980108956135, "left": 275.0730695355159, "width": 216.57396326735739, "height": 148.73419658225234 },
+        { "el": "LBNg9Tpzhv74rGNy", "top": 110.00980108956135, "left": 486.5493886785026, "width": 241.38761919551303, "height": 147.80594077407275 },
+        { "el": "LBMCgtlKk3zVJkmd", "top": 867.8773984535426, "left": 80.78176570130906, "width": 234.73234998597886, "height": 159.06507119956396 },
+        { "el": "LBVZSwhP9GNFVDDC", "top": 867.8773984535426, "left": 311.7345881282328, "width": 238.3735400857084, "height": 159.06507119956396 },
+        { "el": "LBn1MC4YzvW46h0d", "top": 867.8773984535426, "left": 550.1081282139412, "width": 182.92652378444504, "height": 159.06507119956407 }
+      ],
+      "text": [
+        { "el": "LBCXC0sCP2Jv9SNg", "chars": "Wishes", "top": 481.9203469825286, "left": -163.294709080328, "width": 632.5536018989216, "height": 98.0141997283774, "fontSize": 82.16349261198243, "color": "#000000", "align": "center", "fontRef": "YAF3ubalrAg,0", "role": "heading" },
+        { "el": "LBVG2Dnf09MD4Pzn", "chars": "<wish> – Dad", "top": 358.74643196723, "left": 115.11450834498864, "width": 187.84850068517383, "height": 91.40688553083048, "fontSize": 13.693915435330409, "color": "#2e2e2e", "fontRef": "YAGL3riVrnU,0", "role": "customer-wish" },
+        { "el": "LBmdM8tf08f39dR0", "chars": "<wish> – Bestie", "top": 358.74643196723, "left": 371.8502949498272, "width": 221.21318299167794, "height": 91.40688553083048, "fontSize": 13.693915435330409, "color": "#2e2e2e", "fontRef": "YAGL3riVrnU,0", "role": "customer-wish" },
+        { "el": "LBX4wgFgtzVqcqQm", "chars": "<wish> – Mom", "top": 478.80970484100806, "left": 495.9391053365946, "width": 221.21318299167794, "height": 129.06515297798913, "fontSize": 13.693915435330409, "color": "#2e2e2e", "fontRef": "YAGL3riVrnU,0", "role": "customer-wish" },
+        { "el": "LB79ZQs1DpRl1HCz", "chars": "<wish> – Cousin", "top": 601.3312895786097, "left": 100.0830767832097, "width": 187.84850068517383, "height": 91.40688553083048, "fontSize": 13.693915435330409, "color": "#2e2e2e", "fontRef": "YAGL3riVrnU,0", "role": "customer-wish" },
+        { "el": "LBck0676P990Q1wm", "chars": "<wish> – Sister", "top": 669.8236137689528, "left": 302.9630090301624, "width": 314.9366973467417, "height": 53.74861808367185, "fontSize": 13.69391543533041, "color": "#2e2e2e", "fontRef": "YAGL3riVrnU,0", "role": "customer-wish" }
+      ],
+      "decor": [
+        { "el": "LBHhvmszCRqMdNFM", "note": "film sprocket strip" },
+        { "el": "LBWfl87lJzNb5Knp", "note": "film sprocket strip" },
+        { "el": "LBxH4C4vnKXSHmBV", "note": "film sprocket strip" },
+        { "el": "LBvMPLn6dnMbr8Yb", "note": "film sprocket strip" },
+        { "el": "LBygstNCpjtFZMS9", "note": "black rule" }
+      ]
+    },
+    "10": {
+      "id": "PByvKfb34d9nFGHQ", "background": "#ffffff", "title": "love (heart collage)",
+      "note": "19 photo frames arranged into a heart; one centre frame is the hero. Dense slot page.",
+      "slots": [
+        { "el": "LBQQwR8KlbB7d2nw", "top": 287.0740517400881, "left": 171.1866227780954, "width": 102.64923161341613, "height": 79.36299162570788 },
+        { "el": "LBcS9rBvM6SCWpy2", "top": 348.8220437192741, "left": 73.5299790651269, "width": 206.63278783982105, "height": 239.47496465459704 },
+        { "el": "LBc5Ht8FnRhd6b8v", "top": 357.63206786442566, "left": 543.1952229063644, "width": 185.17020129942722, "height": 151.11618733572675 },
+        { "el": "LBfhMh4NJP0Y7zCD", "top": 405.47188577981694, "left": 266.6866006775347, "width": 287.62927527919373, "height": 331.69174394645614, "note": "hero centre frame" },
+        { "el": "LBGrK4vhq93YPyLP", "top": 332.35205339562447, "left": 273.83585439151153, "width": 117.2028750026959, "height": 80.17152736955673 },
+        { "el": "LBXfF9y1RV5zspYV", "top": 332.35205339562447, "left": 429.1558041603867, "width": 117.2028750026959, "height": 80.17152736955673 },
+        { "el": "LBsVXNjvhSpgxs8V", "top": 290.23750799680624, "left": 546.3586791630827, "width": 98.677239612849, "height": 73.0360791122715 },
+        { "el": "LB87BsQfwXk2D6VL", "top": 313.067410474142, "left": 120.84368801778518, "width": 50.20617663493574, "height": 50.20617663493574 },
+        { "el": "LBWp27LpRwJVfHYM", "top": 307.2489650781566, "left": 645.0359187759316, "width": 53.44031961033118, "height": 50.38310278626906 },
+        { "el": "LBD9Y2dDblpbRtyv", "top": 731.4650962438519, "left": 299.91479360823166, "width": 55.461658969953355, "height": 55.461658969953355 },
+        { "el": "LBc1hsPH7byCPskB", "top": 731.4650962438519, "left": 463.1898684334763, "width": 55.461658969953355, "height": 55.461658969953355 },
+        { "el": "LBF2jFFQx5GPSB8t", "top": 515.8560987830917, "left": 86.6799159413562, "width": 68.32754415285791, "height": 68.32754415285791 },
+        { "el": "LBZDyJ50kbdrM1gq", "top": 630.3857183029837, "left": 198.35905652467682, "width": 75.47679786683469, "height": 68.32754415285791 },
+        { "el": "LBTg59GkNwlgrH4t", "top": 630.3857183029837, "left": 551.1524197000102, "width": 69.00851191604382, "height": 68.32754415285791 },
+        { "el": "LByDgfqQbSn4lzxD", "top": 515.8560987830917, "left": 659.4382944728534, "width": 61.12140917689552, "height": 68.32754415285791 },
+        { "el": "LBmNMrQgngW291FN", "top": 515.8560987830916, "left": 161.0318281915297, "width": 109.15859921722554, "height": 109.15859921722554 },
+        { "el": "LBSSNRHz1Yrt4GSd", "top": 508.7482552001524, "left": 550.2796952556278, "width": 104.30738475413247, "height": 116.26644280016475 },
+        { "el": "LBXRFFg8lxSGyYMM", "top": 728.3016399871336, "left": 356.59453038948607, "width": 106.59533804399024, "height": 80.21704185672803 }
+      ],
+      "text": [],
+      "decor": [
+        { "el": "LBt27KhZHS05QDRw", "mediaId": "MAGxYUiLBdU", "top": 878.7601237276031, "left": 444.0552031899525, "width": 316.7563688854829, "height": 149.6509001707679, "note": "'love (luv) noun' definition block as image" }
+      ]
+    },
+    "11": {
+      "id": "PB5V0DWbfnfByT1S", "background": "#ffffff", "title": "Who is That girl",
+      "slots": [
+        { "el": "LBwfSjPFPfr3mD9l", "kind": "grid", "cells": ["a"], "top": 81.94040724242961, "left": 387.9747537788456, "width": 167.65116087449124, "height": 974.8154982693814, "note": "tall left column" },
+        { "el": "LB9zFW5FH0p8K36q", "kind": "grid", "cells": ["a"], "top": 80.8818897637795, "left": 564.0653745585796, "width": 167.65116087449124, "height": 488.46626661334074 },
+        { "el": "LBKQg2dbrxK7Chl5", "kind": "grid", "cells": ["a"], "top": 578.9109997636976, "left": 564.0653745585796, "width": 167.65116087449124, "height": 474.63140484727455 }
+      ],
+      "text": [
+        { "el": "LBQRrgWk5rLKg2W1", "chars": "Who is / That girl", "top": 152.79060275400508, "left": 93.94423718242302, "width": 316.32901408102794, "height": 146.80785633786138, "fontSize": 56.68278372328463, "color": "#000000", "align": "start", "fontRef": "YAF3ubalrAg,0", "role": "heading" },
+        { "el": "LBMKRhWgSQDTv47N", "chars": "<Name> is curious, adventurous... (bio part 1)", "top": 351.5717159838356, "left": 80.88188976377955, "width": 269.9340756704402, "height": 390.08955227021187, "fontSize": 13.60382048021663, "fontStyle": "italic", "color": "#2e2e2e", "align": "justify", "fontRef": "YALBszUSD-E,0", "role": "customer-longform", "note": "first region is bold 'Name' — the birthday person's name is its own text region" },
+        { "el": "LBhJSVzT1fbhccTz", "chars": "Her creativity shines... (bio part 2)", "top": 747.2203900214781, "left": 80.88188976377955, "width": 269.9340756704402, "height": 184.33176750693534, "fontSize": 13.60382048021663, "fontStyle": "italic", "color": "#2e2e2e", "align": "justify", "fontRef": "YALBszUSD-E,0", "role": "customer-longform" }
+      ],
+      "decor": []
+    },
+    "12": {
+      "id": "PBhkPsFz5RzFRpCR", "background": "#10100f", "title": "The Notebook (film-poster homage)",
+      "slots": [
+        { "el": "LB4cDkYNqsJmq5XF", "kind": "shape", "top": 84.66141732283472, "left": 534.7796951083994, "width": 193.15731276561635, "height": 685.6516022949102, "note": "rounded phone-shaped frame" },
+        { "el": "LB35WnsMvQ1SQm9v", "kind": "shape", "top": 202.29322496024406, "left": 80.88188976377954, "width": 184.0145463005197, "height": 711.6612155709456, "note": "rounded phone-shaped frame" },
+        { "el": "LB22hdh67MQTzmyj", "kind": "shape", "top": 80.88188976377955, "left": 284.8964360642992, "width": 215.36263552336183, "height": 975.8740157480318, "note": "tall centre frame" }
+      ],
+      "text": [
+        { "el": "LBbNCTJVZYC1sqp2", "chars": "The / Notebook", "top": 223.12797294300736, "left": -34.919479167081874, "width": 830.4036679020525, "height": 299.80859313004373, "fontSize": [134.1586456425552, 145.3318970024956], "color": "#ffe959", "opacity": 0.52, "align": "center", "fontRef": "YAF3ubalrAg,0", "role": "heading" },
+        { "el": "LB8Rys74WY65B1fq", "chars": "Release / June 25 2004", "top": 88.44094488188983, "left": 88.44094488188978, "width": 232.90905803618142, "height": 37.11274, "fontSize": 14.4363, "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-field" },
+        { "el": "LBNk0TVtpgZdNR22", "chars": "directed by / Nick Cassavetes", "top": 141.88749959961876, "left": 88.44094488188978, "width": 232.90905803618142, "height": 37.11274, "fontSize": 14.4363, "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-field" },
+        { "el": "LBtrHR4gYtVXFXvT", "chars": "So it's not gonna be easy... - Noah", "top": 831.2621949721346, "left": 534.7796951083994, "width": 189.87906249755085, "height": 140.807875, "fontSize": 12.7685, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-quote" },
+        { "el": "LBf3thnpRbBGTRKs", "chars": "My dearest Allie...", "top": 950.9544405311897, "left": 95.54924859033305, "width": 179.1992553057975, "height": 49.790314, "fontSize": 20.9686, "fontStyle": "italic", "color": "#ffffff", "fontRef": "YALBszUSD-E,0", "role": "customer-quote" }
+      ],
+      "decor": []
+    }
+  }
+}
