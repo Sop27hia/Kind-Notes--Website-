@@ -222,22 +222,8 @@
       "canva_page_id": "PBvcYhvhTVHX5bZb",
       "title": "",
       "background": "#e0d2c6",
-      "photo_capacity": 3,
+      "photo_capacity": 1,
       "photo_slots": [
-        {
-          "id": "LBCwcsWk7hGysLD6",
-          "kind": "rect",
-          "x_mm": 45.91,
-          "x_px": 173.519,
-          "y_mm": 96.66,
-          "y_px": 365.329,
-          "w_mm": 126.594,
-          "w_px": 478.465,
-          "h_mm": 105.653,
-          "h_px": 399.319,
-          "capacity": 1,
-          "note": "main taped photo"
-        },
         {
           "id": "LBSzjm7gHgRKnY33",
           "kind": "shape",
@@ -250,21 +236,6 @@
           "h_mm": 109.969,
           "h_px": 415.63,
           "capacity": 1
-        },
-        {
-          "id": "LB5Z2GCPwhzF0n2n",
-          "kind": "rect",
-          "x_mm": 98.172,
-          "x_px": 371.043,
-          "y_mm": 70.977,
-          "y_px": 268.259,
-          "w_mm": 17.028,
-          "w_px": 64.356,
-          "h_mm": 56.523,
-          "h_px": 213.63,
-          "rotation_deg": -90,
-          "capacity": 1,
-          "note": "tape strip frame"
         }
       ],
       "text_fields": [
@@ -329,7 +300,43 @@
           "letterSpacing": -0.062
         }
       ],
-      "fixed_decor_count": 0
+      "fixed_decor_count": 0,
+      "fixed_decor_reclassified": [
+        {
+          "id": "LBCwcsWk7hGysLD6",
+          "kind": "rect",
+          "x_mm": 45.91,
+          "x_px": 173.519,
+          "y_mm": 96.66,
+          "y_px": 365.329,
+          "w_mm": 126.594,
+          "w_px": 478.465,
+          "h_mm": 105.653,
+          "h_px": 399.319,
+          "capacity": 1,
+          "note": "main taped photo",
+          "reclassified": "fixed-decor",
+          "evidence": "pink torn-paper backing — confirmed against Canva render + filled PDF"
+        },
+        {
+          "id": "LB5Z2GCPwhzF0n2n",
+          "kind": "rect",
+          "x_mm": 98.172,
+          "x_px": 371.043,
+          "y_mm": 70.977,
+          "y_px": 268.259,
+          "w_mm": 17.028,
+          "w_px": 64.356,
+          "h_mm": 56.523,
+          "h_px": 213.63,
+          "rotation_deg": -90,
+          "capacity": 1,
+          "note": "tape strip frame",
+          "reclassified": "fixed-decor",
+          "evidence": "tape strip over the photo — confirmed against Canva render + filled PDF"
+        }
+      ],
+      "verified": "phase-0: geometry overlaid on Canva render and on the filled PDF; boxes land exactly"
     },
     {
       "index": 3,
@@ -3865,7 +3872,17 @@
   ],
   "totals": {
     "pages": 36,
-    "photo_slots": 151,
-    "customer_text_fields": 61
+    "photo_slots": 149,
+    "customer_text_fields": 61,
+    "photo_slots_note": "upper bound; see slot_classification"
+  },
+  "slot_classification": {
+    "signal": "Canva's isMediaReplaceable marks every frame whose image can be swapped.",
+    "limitation": "It does not distinguish a customer photo slot from design furniture that happens to be an image (torn paper, tape, textures) or from example imagery pre-filled into a real slot. Page 2 proved this: 3 replaceable frames, 1 real slot.",
+    "consequence": "The 151 figure is an upper bound on customer photo slots, not the true count.",
+    "recommended_fix": "Tag the real slots in Canva with autofill field labels (update_autofill_field). That makes the slot map authored rather than inferred, and feeds the Canva-as-renderer pipeline directly.",
+    "verified_pages": [
+      2
+    ]
   }
 }
