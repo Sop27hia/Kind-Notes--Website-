@@ -1,0 +1,65 @@
+{
+  "$comment": "Kind Notes Birthday Magazine — edition model. Everything is a 4-page block because saddle-stitch binding requires the total page count to be divisible by 4. Skipping a single page would produce an unbindable 19- or 21-page book, so pages are only ever added or removed four at a time.",
+  "binding": {
+    "method": "saddle-stitch",
+    "page_count_must_be_multiple_of": 4,
+    "note": "This is why skip and add-on both operate on blocks, never single pages."
+  },
+  "base_edition": {
+    "pages": 20,
+    "price_eur": 34.95,
+    "composition": "16 core pages + 1 optional lifestyle block (4 pages)",
+    "min_pages_if_block_skipped": 16
+  },
+  "addon": {
+    "unit_pages": 4,
+    "price_eur_per_unit": 7.5,
+    "max_units": 4,
+    "note": "price_eur_per_unit is a placeholder — set against real print cost per signature."
+  },
+  "blocks": [
+    {
+      "id": "core",
+      "kind": "core",
+      "label": "Basis",
+      "skippable": false,
+      "pages": [1, 2, 3, 5, 6, 8, 11, 20, 21, 22, 24, 30, 31, 33, 35, 36]
+    },
+    {
+      "id": "lifestyle",
+      "kind": "optional-in-base",
+      "label": "Haar wereld",
+      "skippable": true,
+      "skip_reason": "Klant heeft geen parfum-, beauty- of tasfoto's",
+      "pages": [25, 28, 29, 27]
+    },
+    {
+      "id": "favourites",
+      "kind": "addon",
+      "label": "Favoriete film & artiest",
+      "requires": "een favoriete film en artiest",
+      "pages": [12, 13, 14, 15]
+    },
+    {
+      "id": "travel",
+      "kind": "addon",
+      "label": "Reizen",
+      "requires": "fotos van een reis",
+      "pages": [18, 19, 16, 17]
+    },
+    {
+      "id": "more-wishes",
+      "kind": "addon",
+      "label": "Extra wensen",
+      "requires": "meer wensen van dierbaren",
+      "pages": [9, 23, 26, 34]
+    },
+    {
+      "id": "photo-heavy",
+      "kind": "addon",
+      "label": "Fotospecial",
+      "requires": "veel fotos",
+      "pages": [4, 10, 32, 7]
+    }
+  ]
+}
