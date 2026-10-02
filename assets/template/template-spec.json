@@ -90,7 +90,11 @@
             "a"
           ],
           "capacity": 1,
-          "note": "full-bleed cover photo"
+          "note": "full-bleed cover photo",
+          "autofill_field_labels": [
+            "photo_p01_01"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -359,7 +363,9 @@
           "h_mm": 274.533,
           "h_px": 1037.606,
           "capacity": 1,
-          "note": "single full-page photo frame"
+          "note": "single full-page photo frame",
+          "autofill_field_label": "photo_p03_01",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -400,7 +406,19 @@
             "g h i"
           ],
           "capacity": 9,
-          "note": "3x3 photo grid"
+          "note": "3x3 photo grid",
+          "autofill_field_labels": [
+            "photo_p04_01",
+            "photo_p04_02",
+            "photo_p04_03",
+            "photo_p04_04",
+            "photo_p04_05",
+            "photo_p04_06",
+            "photo_p04_07",
+            "photo_p04_08",
+            "photo_p04_09"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -475,7 +493,9 @@
           "h_px": 294.092,
           "rotation_deg": 23.7098,
           "capacity": 1,
-          "stroke": 4
+          "stroke": 4,
+          "autofill_field_label": "photo_p06_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBQ9fLvqRXbz0wm0",
@@ -490,7 +510,9 @@
           "h_px": 307.204,
           "rotation_deg": -9.0541,
           "capacity": 1,
-          "stroke": 4
+          "stroke": 4,
+          "autofill_field_label": "photo_p06_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBkKKXdk64D4qYlX",
@@ -505,7 +527,9 @@
           "h_px": 309.775,
           "rotation_deg": 15.9964,
           "capacity": 1,
-          "stroke": 4
+          "stroke": 4,
+          "autofill_field_label": "photo_p06_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBThl7XhFVr7nvt7",
@@ -521,7 +545,9 @@
           "rotation_deg": 15.9964,
           "capacity": 1,
           "stroke": 4,
-          "note": "bleeds off right edge"
+          "note": "bleeds off right edge",
+          "autofill_field_label": "photo_p06_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBJ14NFTmFgmC7qr",
@@ -536,7 +562,9 @@
           "h_px": 263.989,
           "rotation_deg": -16.1495,
           "capacity": 1,
-          "stroke": 4
+          "stroke": 4,
+          "autofill_field_label": "photo_p06_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LB3LxRVJvpC6FLm6",
@@ -551,7 +579,9 @@
           "h_px": 319.539,
           "rotation_deg": -11.4635,
           "capacity": 1,
-          "stroke": 4
+          "stroke": 4,
+          "autofill_field_label": "photo_p06_06",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -661,7 +691,9 @@
           "h_px": 294.529,
           "rotation_deg": 29.8686,
           "capacity": 1,
-          "stroke": 5
+          "stroke": 5,
+          "autofill_field_label": "photo_p07_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBH2JdjXnzLh3dL4",
@@ -676,7 +708,9 @@
           "h_px": 294.529,
           "rotation_deg": -67.5246,
           "capacity": 1,
-          "stroke": 5
+          "stroke": 5,
+          "autofill_field_label": "photo_p07_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LB76CBPCYj2t6mRv",
@@ -691,7 +725,9 @@
           "h_px": 294.529,
           "rotation_deg": 3.202,
           "capacity": 1,
-          "stroke": 5
+          "stroke": 5,
+          "autofill_field_label": "photo_p07_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBKnrtDxqWsvxtXH",
@@ -706,7 +742,9 @@
           "h_px": 297.067,
           "rotation_deg": -101.7771,
           "capacity": 1,
-          "stroke": 5
+          "stroke": 5,
+          "autofill_field_label": "photo_p07_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBFjcLZxqcMwScXQ",
@@ -721,7 +759,9 @@
           "h_px": 294.529,
           "rotation_deg": 8.8457,
           "capacity": 1,
-          "stroke": 5
+          "stroke": 5,
+          "autofill_field_label": "photo_p07_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LBmDkBDQsFJ3PMF6",
@@ -737,7 +777,9 @@
           "rotation_deg": 15.9964,
           "capacity": 1,
           "stroke": 5,
-          "note": "bleeds off left edge"
+          "note": "bleeds off left edge",
+          "autofill_field_label": "photo_p07_06",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -831,7 +873,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip top, frame 1"
+          "note": "film strip top, frame 1",
+          "autofill_field_label": "photo_p08_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBLCbYgFJ3cbSyCx",
@@ -845,7 +889,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip top, frame 2"
+          "note": "film strip top, frame 2",
+          "autofill_field_label": "photo_p08_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LB4lJZHTmHyrwdTN",
@@ -859,7 +905,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip top, frame 3"
+          "note": "film strip top, frame 3",
+          "autofill_field_label": "photo_p08_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBLpk4jF2yJ78Czq",
@@ -873,7 +921,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip bottom, frame 1"
+          "note": "film strip bottom, frame 1",
+          "autofill_field_label": "photo_p08_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBDkFypdwpVNK6rY",
@@ -887,7 +937,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip bottom, frame 2"
+          "note": "film strip bottom, frame 2",
+          "autofill_field_label": "photo_p08_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LBKp503VsbTYlxx8",
@@ -901,7 +953,9 @@
           "h_mm": 43.44,
           "h_px": 164.183,
           "capacity": 1,
-          "note": "film strip bottom, frame 3"
+          "note": "film strip bottom, frame 3",
+          "autofill_field_label": "photo_p08_06",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1013,7 +1067,9 @@
           "w_px": 216.574,
           "h_mm": 39.353,
           "h_px": 148.734,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LB8mHR8p8YYr9d2W",
@@ -1026,7 +1082,9 @@
           "w_px": 216.574,
           "h_mm": 39.353,
           "h_px": 148.734,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBNg9Tpzhv74rGNy",
@@ -1039,7 +1097,9 @@
           "w_px": 241.388,
           "h_mm": 39.107,
           "h_px": 147.806,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBMCgtlKk3zVJkmd",
@@ -1052,7 +1112,9 @@
           "w_px": 234.732,
           "h_mm": 42.086,
           "h_px": 159.065,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBVZSwhP9GNFVDDC",
@@ -1065,7 +1127,9 @@
           "w_px": 238.374,
           "h_mm": 42.086,
           "h_px": 159.065,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LBn1MC4YzvW46h0d",
@@ -1078,7 +1142,9 @@
           "w_px": 182.927,
           "h_mm": 42.086,
           "h_px": 159.065,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p09_06",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1200,7 +1266,9 @@
           "w_px": 102.649,
           "h_mm": 20.998,
           "h_px": 79.363,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBcS9rBvM6SCWpy2",
@@ -1213,7 +1281,9 @@
           "w_px": 206.633,
           "h_mm": 63.361,
           "h_px": 239.475,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBc5Ht8FnRhd6b8v",
@@ -1226,7 +1296,9 @@
           "w_px": 185.17,
           "h_mm": 39.983,
           "h_px": 151.116,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBfhMh4NJP0Y7zCD",
@@ -1240,7 +1312,9 @@
           "h_mm": 87.76,
           "h_px": 331.692,
           "capacity": 1,
-          "note": "hero centre frame"
+          "note": "hero centre frame",
+          "autofill_field_label": "photo_p10_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBGrK4vhq93YPyLP",
@@ -1253,7 +1327,9 @@
           "w_px": 117.203,
           "h_mm": 21.212,
           "h_px": 80.172,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LBXfF9y1RV5zspYV",
@@ -1266,7 +1342,9 @@
           "w_px": 117.203,
           "h_mm": 21.212,
           "h_px": 80.172,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_06",
+          "tagged_in_canva": true
         },
         {
           "id": "LBsVXNjvhSpgxs8V",
@@ -1279,7 +1357,9 @@
           "w_px": 98.677,
           "h_mm": 19.324,
           "h_px": 73.036,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_07",
+          "tagged_in_canva": true
         },
         {
           "id": "LB87BsQfwXk2D6VL",
@@ -1292,7 +1372,9 @@
           "w_px": 50.206,
           "h_mm": 13.284,
           "h_px": 50.206,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_08",
+          "tagged_in_canva": true
         },
         {
           "id": "LBWp27LpRwJVfHYM",
@@ -1305,7 +1387,9 @@
           "w_px": 53.44,
           "h_mm": 13.331,
           "h_px": 50.383,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_09",
+          "tagged_in_canva": true
         },
         {
           "id": "LBD9Y2dDblpbRtyv",
@@ -1318,7 +1402,9 @@
           "w_px": 55.462,
           "h_mm": 14.674,
           "h_px": 55.462,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_10",
+          "tagged_in_canva": true
         },
         {
           "id": "LBc1hsPH7byCPskB",
@@ -1331,7 +1417,9 @@
           "w_px": 55.462,
           "h_mm": 14.674,
           "h_px": 55.462,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_11",
+          "tagged_in_canva": true
         },
         {
           "id": "LBF2jFFQx5GPSB8t",
@@ -1344,7 +1432,9 @@
           "w_px": 68.328,
           "h_mm": 18.078,
           "h_px": 68.328,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_12",
+          "tagged_in_canva": true
         },
         {
           "id": "LBZDyJ50kbdrM1gq",
@@ -1357,7 +1447,9 @@
           "w_px": 75.477,
           "h_mm": 18.078,
           "h_px": 68.328,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_13",
+          "tagged_in_canva": true
         },
         {
           "id": "LBTg59GkNwlgrH4t",
@@ -1370,7 +1462,9 @@
           "w_px": 69.009,
           "h_mm": 18.078,
           "h_px": 68.328,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_14",
+          "tagged_in_canva": true
         },
         {
           "id": "LByDgfqQbSn4lzxD",
@@ -1383,7 +1477,9 @@
           "w_px": 61.121,
           "h_mm": 18.078,
           "h_px": 68.328,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_15",
+          "tagged_in_canva": true
         },
         {
           "id": "LBmNMrQgngW291FN",
@@ -1396,7 +1492,9 @@
           "w_px": 109.159,
           "h_mm": 28.882,
           "h_px": 109.159,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_16",
+          "tagged_in_canva": true
         },
         {
           "id": "LBSSNRHz1Yrt4GSd",
@@ -1409,7 +1507,9 @@
           "w_px": 104.307,
           "h_mm": 30.762,
           "h_px": 116.266,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_17",
+          "tagged_in_canva": true
         },
         {
           "id": "LBXRFFg8lxSGyYMM",
@@ -1422,7 +1522,9 @@
           "w_px": 106.595,
           "h_mm": 21.224,
           "h_px": 80.217,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p10_18",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -1452,7 +1554,11 @@
           ],
           "templateAreas": null,
           "capacity": 1,
-          "note": "tall left column"
+          "note": "tall left column",
+          "autofill_field_labels": [
+            "photo_p11_01"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LB9zFW5FH0p8K36q",
@@ -1469,7 +1575,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p11_02"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LBKQg2dbrxK7Chl5",
@@ -1486,7 +1596,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p11_03"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1566,7 +1680,9 @@
           "h_mm": 181.412,
           "h_px": 685.652,
           "capacity": 1,
-          "note": "rounded phone-shaped frame"
+          "note": "rounded phone-shaped frame",
+          "autofill_field_label": "photo_p12_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LB35WnsMvQ1SQm9v",
@@ -1580,7 +1696,9 @@
           "h_mm": 188.294,
           "h_px": 711.661,
           "capacity": 1,
-          "note": "rounded phone-shaped frame"
+          "note": "rounded phone-shaped frame",
+          "autofill_field_label": "photo_p12_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LB22hdh67MQTzmyj",
@@ -1594,7 +1712,9 @@
           "h_mm": 258.2,
           "h_px": 975.874,
           "capacity": 1,
-          "note": "tall centre frame"
+          "note": "tall centre frame",
+          "autofill_field_label": "photo_p12_03",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1710,7 +1830,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p13_01"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LBzqnR4Cq7R10YdM",
@@ -1728,7 +1852,11 @@
           ],
           "templateAreas": null,
           "capacity": 1,
-          "note": "centre, larger"
+          "note": "centre, larger",
+          "autofill_field_labels": [
+            "photo_p13_02"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LBCK3mXyNtyxq63B",
@@ -1745,7 +1873,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p13_03"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1842,7 +1974,9 @@
           "w_px": 156.249,
           "h_mm": 57.73,
           "h_px": 218.193,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p14_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBsNBD1CqDHCW3hq",
@@ -1855,7 +1989,9 @@
           "w_px": 195.561,
           "h_mm": 57.73,
           "h_px": 218.193,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p14_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBTxWV31T8jTxPMg",
@@ -1868,7 +2004,9 @@
           "w_px": 210.621,
           "h_mm": 54.749,
           "h_px": 206.924,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p14_03",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -1984,7 +2122,9 @@
           "h_px": 301.271,
           "capacity": 1,
           "stroke": 8,
-          "strokeColor": "#5a5552"
+          "strokeColor": "#5a5552",
+          "autofill_field_label": "photo_p15_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LB0dHPLdzZ1ysTm9",
@@ -1999,7 +2139,9 @@
           "h_px": 301.271,
           "capacity": 1,
           "stroke": 8,
-          "strokeColor": "#394222"
+          "strokeColor": "#394222",
+          "autofill_field_label": "photo_p15_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LB8B7yQXR2MDn1H4",
@@ -2014,7 +2156,9 @@
           "h_px": 301.271,
           "capacity": 1,
           "stroke": 8,
-          "strokeColor": "#3d3831"
+          "strokeColor": "#3d3831",
+          "autofill_field_label": "photo_p15_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBNfzXdkrJVJbnmV",
@@ -2029,7 +2173,9 @@
           "h_px": 301.271,
           "capacity": 1,
           "stroke": 8,
-          "strokeColor": "#a05834"
+          "strokeColor": "#a05834",
+          "autofill_field_label": "photo_p15_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBDnKpv5vJfMcQqv",
@@ -2044,7 +2190,9 @@
           "h_px": 301.271,
           "capacity": 1,
           "stroke": 8,
-          "strokeColor": "#593c2f"
+          "strokeColor": "#593c2f",
+          "autofill_field_label": "photo_p15_05",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -2101,7 +2249,15 @@
             "c e e",
             "d e e"
           ],
-          "capacity": 5
+          "capacity": 5,
+          "autofill_field_labels": [
+            "photo_p16_01",
+            "photo_p16_02",
+            "photo_p16_03",
+            "photo_p16_04",
+            "photo_p16_05"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -2138,7 +2294,16 @@
             "c d d",
             "e e f"
           ],
-          "capacity": 6
+          "capacity": 6,
+          "autofill_field_labels": [
+            "photo_p17_01",
+            "photo_p17_02",
+            "photo_p17_03",
+            "photo_p17_04",
+            "photo_p17_05",
+            "photo_p17_06"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -2162,7 +2327,9 @@
           "w_px": 302.447,
           "h_mm": 32.021,
           "h_px": 121.026,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p18_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBhRNGz76dCbj6Xn",
@@ -2175,7 +2342,9 @@
           "w_px": 424.018,
           "h_mm": 90.538,
           "h_px": 342.189,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p18_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBX8JZC3x8Hckxfp",
@@ -2188,7 +2357,9 @@
           "w_px": 336.471,
           "h_mm": 111.671,
           "h_px": 422.064,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p18_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBh9NTkH69J7bJNY",
@@ -2201,7 +2372,9 @@
           "w_px": 424.316,
           "h_mm": 90.531,
           "h_px": 342.166,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p18_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LBQdBBlSWsqwCVj7",
@@ -2214,7 +2387,9 @@
           "w_px": 296.186,
           "h_mm": 31.335,
           "h_px": 118.432,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p18_05",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -2261,7 +2436,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p19_01"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LBG7ZsVT78dXZ2Qk",
@@ -2278,7 +2457,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p19_02"
+          ],
+          "tagged_in_canva": true
         },
         {
           "id": "LBtyX7WwwZnj3cMD",
@@ -2295,7 +2478,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p19_03"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -2823,7 +3010,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p22_01"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -2851,7 +3042,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p23_01"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -2879,7 +3074,11 @@
             "a"
           ],
           "templateAreas": null,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_labels": [
+            "photo_p24_01"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -3098,7 +3297,16 @@
             "a a c",
             "f e d"
           ],
-          "capacity": 6
+          "capacity": 6,
+          "autofill_field_labels": [
+            "photo_p26_01",
+            "photo_p26_02",
+            "photo_p26_03",
+            "photo_p26_04",
+            "photo_p26_05",
+            "photo_p26_06"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -3140,7 +3348,9 @@
           "w_px": 734.462,
           "h_mm": 282.714,
           "h_px": 1068.526,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p27_01",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -3265,7 +3475,12 @@
             "a",
             "b"
           ],
-          "capacity": 2
+          "capacity": 2,
+          "autofill_field_labels": [
+            "photo_p30_01",
+            "photo_p30_02"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -3318,7 +3533,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LB5rVn6pPX97XGFx",
@@ -3332,7 +3549,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBJcDBshz2TF4KdG",
@@ -3346,7 +3565,9 @@
           "h_mm": 85.434,
           "h_px": 322.901,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p32_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBpGr9zzVdgNBWC0",
@@ -3360,7 +3581,9 @@
           "h_mm": 85.434,
           "h_px": 322.901,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p32_04",
+          "tagged_in_canva": true
         },
         {
           "id": "LB9h0Kf97wFKf4L8",
@@ -3374,7 +3597,9 @@
           "h_mm": 85.434,
           "h_px": 322.901,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p32_05",
+          "tagged_in_canva": true
         },
         {
           "id": "LBSLhW7x531h8STL",
@@ -3388,7 +3613,9 @@
           "h_mm": 56.956,
           "h_px": 215.267,
           "capacity": 1,
-          "shape": "square"
+          "shape": "square",
+          "autofill_field_label": "photo_p32_06",
+          "tagged_in_canva": true
         },
         {
           "id": "LBh67H64LqTTP5nX",
@@ -3402,7 +3629,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_07",
+          "tagged_in_canva": true
         },
         {
           "id": "LBT7pY7TYY5tRnhT",
@@ -3416,7 +3645,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_08",
+          "tagged_in_canva": true
         },
         {
           "id": "LB080HLLrFx6MRWz",
@@ -3430,7 +3661,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_09",
+          "tagged_in_canva": true
         },
         {
           "id": "LBSfChjgPVXFp1Zx",
@@ -3444,7 +3677,9 @@
           "h_mm": 56.956,
           "h_px": 215.267,
           "capacity": 1,
-          "shape": "square"
+          "shape": "square",
+          "autofill_field_label": "photo_p32_10",
+          "tagged_in_canva": true
         },
         {
           "id": "LBpqKkKSy6db5fKz",
@@ -3458,7 +3693,9 @@
           "h_mm": 56.956,
           "h_px": 215.267,
           "capacity": 1,
-          "shape": "square"
+          "shape": "square",
+          "autofill_field_label": "photo_p32_11",
+          "tagged_in_canva": true
         },
         {
           "id": "LBSrBQTtWfLCpYkZ",
@@ -3472,7 +3709,9 @@
           "h_mm": 85.434,
           "h_px": 322.901,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p32_12",
+          "tagged_in_canva": true
         },
         {
           "id": "LBr3tB65ctjYxB3T",
@@ -3486,7 +3725,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_13",
+          "tagged_in_canva": true
         },
         {
           "id": "LB7Z4wVnpWJjL8pl",
@@ -3500,7 +3741,9 @@
           "h_mm": 34.174,
           "h_px": 129.16,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p32_14",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -3525,7 +3768,9 @@
           "h_mm": 82.023,
           "h_px": 310.008,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p33_01",
+          "tagged_in_canva": true
         },
         {
           "id": "LBxWZrJ5BylcGSMM",
@@ -3539,7 +3784,9 @@
           "h_mm": 54.682,
           "h_px": 206.672,
           "capacity": 1,
-          "shape": "square"
+          "shape": "square",
+          "autofill_field_label": "photo_p33_02",
+          "tagged_in_canva": true
         },
         {
           "id": "LBhKnWxch456Dk4n",
@@ -3553,7 +3800,9 @@
           "h_mm": 32.809,
           "h_px": 124.003,
           "capacity": 1,
-          "shape": "wide"
+          "shape": "wide",
+          "autofill_field_label": "photo_p33_03",
+          "tagged_in_canva": true
         },
         {
           "id": "LBP968KwCK3gV7bP",
@@ -3567,7 +3816,9 @@
           "h_mm": 82.023,
           "h_px": 310.008,
           "capacity": 1,
-          "shape": "tall"
+          "shape": "tall",
+          "autofill_field_label": "photo_p33_04",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -3789,7 +4040,13 @@
             "b",
             "c"
           ],
-          "capacity": 3
+          "capacity": 3,
+          "autofill_field_labels": [
+            "photo_p34_01",
+            "photo_p34_02",
+            "photo_p34_03"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -3813,7 +4070,9 @@
           "w_px": 714.596,
           "h_mm": 275.244,
           "h_px": 1040.292,
-          "capacity": 1
+          "capacity": 1,
+          "autofill_field_label": "photo_p35_01",
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [],
@@ -3847,7 +4106,14 @@
             "a b",
             "c d"
           ],
-          "capacity": 4
+          "capacity": 4,
+          "autofill_field_labels": [
+            "photo_p36_01",
+            "photo_p36_02",
+            "photo_p36_03",
+            "photo_p36_04"
+          ],
+          "tagged_in_canva": true
         }
       ],
       "text_fields": [
@@ -3949,12 +4215,12 @@
     "method": "Elk twijfelgeval is getoetst door de lege template naast het gevulde magazine te leggen: verandert het kader, dan is het klantcontent.",
     "canva_tagging": {
       "mechanism": "edit-design update_autofill_field writes dataFieldLabel onto the frame's fill. Invisible — the page renders identically.",
-      "naming": "photo_p<page>_<role>  /  text_p<page>_<role>",
-      "tagged_pages": [
-        2
-      ],
-      "remaining_pages": 35,
-      "note": "Labels are bookkeeping only. Production rendering is the HTML/CSS rebuild; Canva's autofill API is Enterprise-tier and is not in the pipeline."
+      "naming": "photo_p<page:02d>_<index:02d>, unique per design",
+      "tagged_pages": "all 29 pages that hold customer photo slots",
+      "remaining_pages": 0,
+      "note": "Labels are bookkeeping only. Production rendering is the HTML/CSS rebuild; Canva's autofill API is Enterprise-tier and is not in the pipeline.",
+      "labels_written": 128,
+      "verified": "read back outside the transaction on pages 4, 32 and 36; every label persisted"
     }
   }
 }
