@@ -1,0 +1,43 @@
+{
+ "type": "fixed",
+ "id": "PBGSmT3Yny9JBhPP",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ecc7cb"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBZgc5CPLNThJDvD",
+   "top": 80.88188976377955,
+   "left": 80.88188976377944,
+   "width": 647.0551181102363,
+   "height": 975.8740157480315,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBGSmT3Yny9JBhPP-LBZgc5CPLNThJDvD-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PBGSmT3Yny9JBhPP-LBZgc5CPLNThJDvD"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBGSmT3Yny9JBhPP"
+}

@@ -1,0 +1,112 @@
+{
+ "type": "fixed",
+ "id": "PBp1rhKwWZ3bP7Ml",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBfgkhlHByt7GHbr",
+   "top": 80.88188976377955,
+   "left": 80.88188976377955,
+   "width": 647.0551181102362,
+   "height": 975.8740157480315,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-a"
+    },
+    {
+     "id": "b",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-b"
+    },
+    {
+     "id": "c",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-c"
+    },
+    {
+     "id": "d",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-d"
+    },
+    {
+     "id": "e",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-e"
+    },
+    {
+     "id": "f",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr-f"
+    }
+   ],
+   "templateAreas": [
+    "a a b",
+    "a a c",
+    "f e d"
+   ],
+   "locator_id": "PBp1rhKwWZ3bP7Ml-LBfgkhlHByt7GHbr"
+  },
+  {
+   "id": "LBlj9kYxclbzVpDk",
+   "top": 597.530073772362,
+   "left": 95.97496200335576,
+   "width": 330.9041268047773,
+   "height": 121.9055840320191,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Fashion icon\n2025",
+     "formatting": {
+      "fontSize": 47.18357142530044,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.112,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBp1rhKwWZ3bP7Ml-LBlj9kYxclbzVpDk"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBp1rhKwWZ3bP7Ml"
+}

@@ -1,0 +1,73 @@
+{
+ "type": "fixed",
+ "id": "PBKGWhkKZ55ZYsqb",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBf9SYxTYl2Wk3yR",
+   "top": 80.88188976377955,
+   "left": 80.8818897637795,
+   "width": 647.0551181102363,
+   "height": 975.8740157480315,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR-a"
+    },
+    {
+     "id": "b",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR-b"
+    },
+    {
+     "id": "c",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR-c"
+    },
+    {
+     "id": "d",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR-d"
+    },
+    {
+     "id": "e",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR-e"
+    }
+   ],
+   "templateAreas": [
+    "a a b",
+    "c e e",
+    "d e e"
+   ],
+   "locator_id": "PBKGWhkKZ55ZYsqb-LBf9SYxTYl2Wk3yR"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBKGWhkKZ55ZYsqb"
+}

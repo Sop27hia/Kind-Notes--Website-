@@ -1,0 +1,615 @@
+{
+ "type": "fixed",
+ "id": "PBGRyf2dqMz8HFlH",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LB0SqPzmWCM7Z8Mw",
+   "top": 80.88188976377901,
+   "left": 88.99998418896219,
+   "width": 206.67199319232046,
+   "height": 310.00798978848064,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 500,
+    "height": 750
+   },
+   "paths": [
+    {
+     "d": "M0,712V38C0,17,17,0,38,0h424c21,0,38,17.1,38,38v674c0,21-17,38-38,38H38C17.1,750,0,733,0,712z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 500,
+     "height": 750
+    },
+    "resizeCenter": {
+     "width": 500,
+     "height": 750
+    }
+   },
+   "locator_id": "PBGRyf2dqMz8HFlH-LB0SqPzmWCM7Z8Mw"
+  },
+  {
+   "id": "LBxWZrJ5BylcGSMM",
+   "top": 398.4961046830583,
+   "left": 88.99998418896219,
+   "width": 206.67199319232046,
+   "height": 206.67199319232046,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 500,
+    "height": 500
+   },
+   "paths": [
+    {
+     "d": "M450,500H50c-27.6,0-50-22.4-50-50V50C0,22.4,22.4,0,50,0h400c27.6,0,50,22.4,50,50v400C500,477.6,477.6,500,450,500z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 500,
+     "height": 500
+    },
+    "resizeCenter": {
+     "width": 500,
+     "height": 500
+    }
+   },
+   "locator_id": "PBGRyf2dqMz8HFlH-LBxWZrJ5BylcGSMM"
+  },
+  {
+   "id": "LBhKnWxch456Dk4n",
+   "top": 615.4865574262083,
+   "left": 88.99998418896217,
+   "width": 206.67199319232049,
+   "height": 124.00319591539228,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 500,
+    "height": 300
+   },
+   "paths": [
+    {
+     "d": "M0,250V50C0,22.4,22.4,0,50,0h400c27.6,0,50,22.4,50,50v200c0,27.6-22.4,50-50,50H50C22.4,300,0,277.6,0,250z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 500,
+     "height": 300
+    },
+    "resizeCenter": {
+     "width": 500,
+     "height": 300
+    }
+   },
+   "locator_id": "PBGRyf2dqMz8HFlH-LBhKnWxch456Dk4n"
+  },
+  {
+   "id": "LBP968KwCK3gV7bP",
+   "top": 746.7479157233304,
+   "left": 88.99998418896224,
+   "width": 206.6719931923204,
+   "height": 310.0079897884806,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 500,
+    "height": 750
+   },
+   "paths": [
+    {
+     "d": "M0,712V38C0,17,17,0,38,0h424c21,0,38,17.1,38,38v674c0,21-17,38-38,38H38C17.1,750,0,733,0,712z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 500,
+     "height": 750
+    },
+    "resizeCenter": {
+     "width": 500,
+     "height": 750
+    }
+   },
+   "locator_id": "PBGRyf2dqMz8HFlH-LBP968KwCK3gV7bP"
+  },
+  {
+   "id": "LB0VqmDfHKTn5t72",
+   "top": 111.11811023622032,
+   "left": 342.3968122688916,
+   "width": 344.60842708918784,
+   "height": 177.17369621181584,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Top 10 Reasons...\n",
+     "formatting": {
+      "fontSize": 49.008820402780906,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.22,
+      "letterSpacing": 0.109,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    },
+    {
+     "characters": " she is the best ",
+     "formatting": {
+      "fontSize": 49.008820402780906,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 1,
+      "lineHeight": 1.22,
+      "letterSpacing": 0.109,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LB0VqmDfHKTn5t72"
+  },
+  {
+   "id": "LByvttDxqFfhpR5b",
+   "top": 340.22973428207365,
+   "left": 345.0240049430846,
+   "width": 328.3426046523861,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": " 1.You\u2019re always so kind and make people feel at home.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LByvttDxqFfhpR5b"
+  },
+  {
+   "id": "LB7xzJqzk1WFFrQ3",
+   "top": 397.73704056173267,
+   "left": 342.54792892647356,
+   "width": 308.03802731014366,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": " 2. I can rely on you for anything, no matter what",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LB7xzJqzk1WFFrQ3"
+  },
+  {
+   "id": "LBTWkzv0nhYW1MM4",
+   "top": 455.2443468413918,
+   "left": 342.5479289264734,
+   "width": 356.06712113686706,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "3 You always light up the room with your energy and light.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBTWkzv0nhYW1MM4"
+  },
+  {
+   "id": "LBLy5c2zL3998wSx",
+   "top": 516.6084003013498,
+   "left": 345.02400494308444,
+   "width": 356.06712113686706,
+   "height": 19.445495196458968,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "4. You\u2019re honest and real with me, and I love that.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBLy5c2zL3998wSx"
+  },
+  {
+   "id": "LBL8Qd18s17R4wGD",
+   "top": 582.4911186076931,
+   "left": 345.02400494308444,
+   "width": 356.06712113686706,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "5. You work hard and inspire me to push myself too.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBL8Qd18s17R4wGD"
+  },
+  {
+   "id": "LBFrKNsv7JVhWyQm",
+   "top": 644.0718220494477,
+   "left": 342.5479289264737,
+   "width": 356.06712113686694,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": " 6. You\u2019re selfless\u2014you think about others before yourself.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBFrKNsv7JVhWyQm"
+  },
+  {
+   "id": "LBggSlYVnXclL2nG",
+   "top": 714.1689084809682,
+   "left": 342.54792892647345,
+   "width": 353.5265666408097,
+   "height": 42.151380922521014,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "7. You have a beautiful and warm personality\u2014you make every day special.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBggSlYVnXclL2nG"
+  },
+  {
+   "id": "LBWZ4QBwK9cZ7W4v",
+   "top": 783.7812589327159,
+   "left": 341.27765167844484,
+   "width": 356.067121136867,
+   "height": 42.15138092252101,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": " 8. You\u2019re loyal, and I\u2019ll never take that for granted.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBWZ4QBwK9cZ7W4v"
+  },
+  {
+   "id": "LB3flV1Jj7d74vrv",
+   "top": 853.558131244268,
+   "left": 342.5479289264737,
+   "width": 356.0671211368669,
+   "height": 19.445495196458964,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "9. Your ambition and drive inspire me everyday",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LB3flV1Jj7d74vrv"
+  },
+  {
+   "id": "LBXwHzpSMmV3mgCx",
+   "top": 929.6038188960777,
+   "left": 342.5479289264737,
+   "width": 356.0671211368669,
+   "height": 42.15138092252101,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": " 10.  You  are loyal and trustworthy, you have a hart made of gold.",
+     "formatting": {
+      "fontSize": 16.301952648015394,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBGRyf2dqMz8HFlH-LBXwHzpSMmV3mgCx"
+  },
+  {
+   "id": "LBvP4mKNltLhSfSP",
+   "top": 964.8709080428798,
+   "left": 653.9588535939644,
+   "width": 79.61644465985992,
+   "height": 43.19192122797401,
+   "rotation": -10.930985639049908,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFSxHSTKaY",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 79.61644465985992,
+      "height": 43.19192122797401,
+      "rotation": 0
+     },
+     "recoloring": {
+      "#000000": "#ffffff"
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBGRyf2dqMz8HFlH-LBvP4mKNltLhSfSP"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBGRyf2dqMz8HFlH"
+}

@@ -1,0 +1,226 @@
+{
+ "type": "fixed",
+ "id": "PBqSqm1YB2LSBtNw",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBc6S82PmqpWm9CC",
+   "top": 477.633897214755,
+   "left": 219.6369223379783,
+   "width": 380.9547856468394,
+   "height": 250.14062471028896,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAGzL0yi0KE",
+     "imageBox": {
+      "top": -570.9648888205852,
+      "left": -189.927964353295,
+      "width": 760.8107143534297,
+      "height": 1141.9297776411704,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBqSqm1YB2LSBtNw-LBc6S82PmqpWm9CC"
+  },
+  {
+   "id": "LBbPKpR2p1Ws7Ww2",
+   "top": 340.4206120193642,
+   "left": 158.09756834595666,
+   "width": 52.42816263912625,
+   "height": 53.159100267808626,
+   "rotation": -20.588187761564022,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFs2qipBic",
+     "imageBox": {
+      "top": 0,
+      "left": -3.552713678800501e-15,
+      "width": 52.428162639126256,
+      "height": 53.159100267808626,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBqSqm1YB2LSBtNw-LBbPKpR2p1Ws7Ww2"
+  },
+  {
+   "id": "LBkWCKLGQgCx78xv",
+   "top": 710.6807381399773,
+   "left": 554.5068845604749,
+   "width": 52.42816263912633,
+   "height": 54.259417996508475,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAE0_MBMJi4",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 52.42816263912633,
+      "height": 54.259417996508475,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBqSqm1YB2LSBtNw-LBkWCKLGQgCx78xv"
+  },
+  {
+   "id": "LBNpMhNG2VdFMrDd",
+   "top": 348.62266270069927,
+   "left": 493.3164888664494,
+   "width": 75.63337247886896,
+   "height": 41.03110456978641,
+   "rotation": -28.225691500679545,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFSxHSTKaY",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 75.63337247886896,
+      "height": 41.03110456978641,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBqSqm1YB2LSBtNw-LBNpMhNG2VdFMrDd"
+  },
+  {
+   "id": "LBVXJXZJgt3VX2yX",
+   "top": 621.9230567006157,
+   "left": 169.0111634142684,
+   "width": 60.72370256031419,
+   "height": 47.58530146090076,
+   "rotation": -23.106794151492135,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MADtGkoni8E",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 60.72370256031419,
+      "height": 47.58530146090076,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBqSqm1YB2LSBtNw-LBVXJXZJgt3VX2yX"
+  },
+  {
+   "id": "LBkpsrmJfBt3Sq2s",
+   "top": 427.4991028740682,
+   "left": 226.8540557695893,
+   "width": 397.87598786910485,
+   "height": 61.82680983824052,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Beauty secrets",
+     "formatting": {
+      "fontSize": 51.74780281457998,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.086,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBqSqm1YB2LSBtNw-LBkpsrmJfBt3Sq2s"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBqSqm1YB2LSBtNw"
+}

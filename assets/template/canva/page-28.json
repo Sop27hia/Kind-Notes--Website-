@@ -1,0 +1,191 @@
+{
+ "type": "fixed",
+ "id": "PB21RNrqlslxt6Rs",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBRk3wnPXVykGcNG",
+   "top": 423.2811146068012,
+   "left": 456.4219097651435,
+   "width": 97.56100433602842,
+   "height": 50.12196597763461,
+   "rotation": -33.73283963043115,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFO4c_jsWM",
+     "imageBox": {
+      "top": 0,
+      "left": -1.4210854715202004e-14,
+      "width": 97.56100433602845,
+      "height": 50.12196597763461,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB21RNrqlslxt6Rs-LBRk3wnPXVykGcNG"
+  },
+  {
+   "id": "LBmZVv6lRp3VgMyb",
+   "top": 608.0415925725908,
+   "left": 297.9691331043852,
+   "width": 50.78100442882965,
+   "height": 116.73794121570033,
+   "rotation": 29.650671426347465,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MACAQtsr1BE",
+     "imageBox": {
+      "top": -7.105427357601002e-15,
+      "left": 0,
+      "width": 50.78100442882965,
+      "height": 116.73794121570035,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB21RNrqlslxt6Rs-LBmZVv6lRp3VgMyb"
+  },
+  {
+   "id": "LBBFBRscfmp1JL5Y",
+   "top": 444.9514897527696,
+   "left": 300.4869135625515,
+   "width": 79.37828271963,
+   "height": 24.011930522688075,
+   "rotation": -125.36285890836028,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MABpx_Sob3U",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 79.37828271963,
+      "height": 24.011930522688075,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB21RNrqlslxt6Rs-LBBFBRscfmp1JL5Y"
+  },
+  {
+   "id": "LB0np6blkrVnzkpB",
+   "top": 596.1056204195339,
+   "left": 496.58695907355616,
+   "width": 72.55469056906915,
+   "height": 40.35854662904472,
+   "rotation": 43.39537618584477,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFlWg5JUNs",
+     "imageBox": {
+      "top": -3.552713678800501e-15,
+      "left": 0,
+      "width": 72.55469056906915,
+      "height": 40.35854662904472,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB21RNrqlslxt6Rs-LB0np6blkrVnzkpB"
+  },
+  {
+   "id": "LBMjFwsdsG2DNffJ",
+   "top": 512.1198115984653,
+   "left": 290.50479868271736,
+   "width": 250.9129573659381,
+   "height": 56.41172152740474,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Her  Scents",
+     "formatting": {
+      "fontSize": 47.215482242552845,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.086,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PB21RNrqlslxt6Rs-LBMjFwsdsG2DNffJ"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PB21RNrqlslxt6Rs"
+}

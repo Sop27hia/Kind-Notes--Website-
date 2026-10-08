@@ -1,0 +1,273 @@
+{
+ "type": "fixed",
+ "id": "PBVVVVM1slLP78yj",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LB641Yy0kn3G80fK",
+   "top": -12,
+   "left": -29.314779637739036,
+   "width": 850.1336772755344,
+   "height": 1161.6377952755906,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBVVVVM1slLP78yj-LB641Yy0kn3G80fK-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LB641Yy0kn3G80fK"
+  },
+  {
+   "id": "LBNNQqHXPSvw1rBG",
+   "top": 1021.9714719759584,
+   "left": 593.2943836518185,
+   "width": 178.19774715727354,
+   "height": 53.682071331128654,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFXVfnhMaU",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 178.19774715727354,
+      "height": 53.682071331128654,
+      "rotation": 0
+     },
+     "recoloring": {
+      "#000000": "#ffe959"
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBVVVVM1slLP78yj-LBNNQqHXPSvw1rBG"
+  },
+  {
+   "id": "LBDPbD0jhX80VVkl",
+   "top": 186.14381856350371,
+   "left": 499.90895752880226,
+   "width": 205.57621848260126,
+   "height": 29.80571378885099,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Magazine",
+     "formatting": {
+      "fontSize": 25.261518066260617,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "end",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LBDPbD0jhX80VVkl"
+  },
+  {
+   "id": "LBdTN693Bk7tHXCm",
+   "top": 33.829850070793526,
+   "left": 72.52904510986389,
+   "width": 652.5727653691456,
+   "height": 170.9963529461908,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Birthday",
+     "formatting": {
+      "fontSize": 142.82898340424737,
+      "fontWeight": "ultrabold",
+      "fontStyle": "normal",
+      "color": "#440213",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LBdTN693Bk7tHXCm"
+  },
+  {
+   "id": "LBjh28816RZvwYkW",
+   "top": 672.5854652606831,
+   "left": 35.00742348282415,
+   "width": 293.6302719287411,
+   "height": 163.09338005739025,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Woman of the Year\n",
+     "formatting": {
+      "fontSize": 52.928644671333934,
+      "fontWeight": "ultrabold",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.96,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LBjh28816RZvwYkW"
+  },
+  {
+   "id": "LB6NpkQSkLQYZ4nJ",
+   "top": 657.4343821036265,
+   "left": 593.2943836518185,
+   "width": 184.01562630443942,
+   "height": 119.08248889092916,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "21  BirthdayEdition",
+     "formatting": {
+      "fontSize": 38.665558642934826,
+      "fontWeight": "ultrabold",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.96,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LB6NpkQSkLQYZ4nJ"
+  },
+  {
+   "id": "LBP6WN1F8ZLxvQdY",
+   "top": 1029.5997959256376,
+   "left": 35.007423482824166,
+   "width": 53.88311897771954,
+   "height": 30.86636831365957,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "July\n2025",
+     "formatting": {
+      "fontSize": 13.745039131910287,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.11,
+      "letterSpacing": 0.131,
+      "fontRef": "YAFdJjvw9Ps,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LBP6WN1F8ZLxvQdY"
+  },
+  {
+   "id": "LBtChl789rjMPkMN",
+   "top": 472.95774133180413,
+   "left": 35.007423482824166,
+   "width": 195.9112648237071,
+   "height": 145.5206079623821,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Top 10 Reasons... she is the best ",
+     "formatting": {
+      "fontSize": 32.53420767199191,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 1,
+      "lineHeight": 1.12,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpCEKCQ,0"
+     }
+    }
+   ],
+   "locator_id": "PBVVVVM1slLP78yj-LBtChl789rjMPkMN"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBVVVVM1slLP78yj"
+}

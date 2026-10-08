@@ -1,0 +1,638 @@
+{
+ "type": "fixed",
+ "id": "PBCQcYws7ppRtXJl",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBTxWV31T8jTxPMg",
+   "top": 811.7073782067583,
+   "left": 190.398727709239,
+   "width": 210.62134468138692,
+   "height": 206.9243704049775,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 89.95823404321669,
+     "height": 88.37922372157962
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBTxWV31T8jTxPMg"
+  },
+  {
+   "id": "LBqF6zYPLFhHbz1v",
+   "top": 545.6596221239205,
+   "left": 80.88188976377971,
+   "width": 199.18704070031757,
+   "height": 195.10029599134785,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 4,
+      "color": {
+       "type": "solid",
+       "color": "#e67022"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 174.0636245719011,
+     "height": 170.492340043338
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBqF6zYPLFhHbz1v"
+  },
+  {
+   "id": "LBd8jKDqJyDJBtv5",
+   "top": 586.0786865354889,
+   "left": 190.39872770923904,
+   "width": 156.2489154517157,
+   "height": 218.1930545366309,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 52.218507057332346,
+     "height": 72.92028572001746
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBd8jKDqJyDJBtv5"
+  },
+  {
+   "id": "LBsNBD1CqDHCW3hq",
+   "top": 659.0535042516981,
+   "left": 363.54598280259046,
+   "width": 195.56053456058876,
+   "height": 218.1930545366309,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 65.35648023261626,
+     "height": 72.92028572001746
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBsNBD1CqDHCW3hq"
+  },
+  {
+   "id": "LBcrQF2tflPJnqW9",
+   "top": 628.5347819952335,
+   "left": 176.78944731486376,
+   "width": 27.21856078875038,
+   "height": 28.097322969796906,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "color": {
+       "type": "solid",
+       "color": "#6d1206"
+      },
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 12.585837520144082,
+     "height": 12.992176345893824
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBcrQF2tflPJnqW9"
+  },
+  {
+   "id": "LBcqBjzDk7L2J14t",
+   "top": 678.7051530322381,
+   "left": 176.78944731486376,
+   "width": 27.21856078875038,
+   "height": 28.097322969796906,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "color": {
+       "type": "solid",
+       "color": "#942d08"
+      },
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 12.585837520144082,
+     "height": 12.992176345893824
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBcqBjzDk7L2J14t"
+  },
+  {
+   "id": "LBQhC0sW7JP27f86",
+   "top": 728.8755240692426,
+   "left": 176.78944731486376,
+   "width": 27.21856078875038,
+   "height": 28.097322969796906,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "color": {
+       "type": "solid",
+       "color": "#be5b0a"
+      },
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 12.585837520144082,
+     "height": 12.992176345893824
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBQhC0sW7JP27f86"
+  },
+  {
+   "id": "LB0bfJPWnh8d3CkW",
+   "top": 846.4038805829399,
+   "left": 312.6302668889762,
+   "width": 218.71736586498628,
+   "height": 210.352024928871,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 4,
+      "color": {
+       "type": "solid",
+       "color": "#e67022"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 191.13059426670526,
+     "height": 183.8203718797445
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LB0bfJPWnh8d3CkW"
+  },
+  {
+   "id": "LBfWFCWvQhDdDzFm",
+   "top": 639.421352518473,
+   "left": 503.7919633959382,
+   "width": 74.95797390665011,
+   "height": 78.56760102753007,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 4,
+      "color": {
+       "type": "solid",
+       "color": "#e67022"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 70.12580869403621,
+     "height": 73.50274123027137
+    }
+   },
+   "locator_id": "PBCQcYws7ppRtXJl-LBfWFCWvQhDdDzFm"
+  },
+  {
+   "id": "LBZtxr9w2B2zp4Wt",
+   "top": 94.04418282013702,
+   "left": 89.03709761415439,
+   "width": 547.0651083016,
+   "height": 83.57558641988093,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Favourite   Artist",
+     "formatting": {
+      "fontSize": 69.81393416845998,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1,
+      "letterSpacing": 0,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBCQcYws7ppRtXJl-LBZtxr9w2B2zp4Wt"
+  },
+  {
+   "id": "LBxPnWmD79V3QJQr",
+   "top": 325.16704136329804,
+   "left": 106.7581754895698,
+   "width": 277.01408891610254,
+   "height": 153.40801531693495,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Frank Ocean is more than just a singer \u2014 he\u2019s a storyteller. Starting his career as a songwriter for stars like Beyonc\u00e9 and John Legend, he found his own voice with his mixtape Nostalgia, Ultra (2011) and breakthrough album Channel Orange (2012). His most iconic work, Blonde (2016), changed the sound of modern R&B forever.",
+     "formatting": {
+      "fontSize": 14.8509162125192,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#000000",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.37,
+      "letterSpacing": -0.022,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBCQcYws7ppRtXJl-LBxPnWmD79V3QJQr"
+  },
+  {
+   "id": "LBWfs8Cwtddn2qwl",
+   "top": 468.1007421239205,
+   "left": 351.4401994774789,
+   "width": 671.8528706398461,
+   "height": 155.11776,
+   "rotation": 90,
+   "opacity": 0.19999999999999996,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Frank Ocean",
+     "formatting": {
+      "fontSize": 130.048,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#e67022",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.83,
+      "letterSpacing": -0.035,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBCQcYws7ppRtXJl-LBWfs8Cwtddn2qwl"
+  },
+  {
+   "id": "LBCGZNNGngBnGKPn",
+   "top": 229.04423900097404,
+   "left": 399.01396320413403,
+   "width": 277.0140889161025,
+   "height": 270.35751862173237,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Through his music, Frank Ocean shares messages of love, identity, vulnerability, and self-discovery. He isn\u2019t afraid to explore feelings of heartbreak, loneliness, or hope, often writing with raw honesty that makes listeners feel understood. His sound blends R&B, soul, and dreamy melodies, creating a world where emotions take center stage.\nFrank Ocean\u2019s message is simple but powerful: be true to yourself, embrace your feelings, and don\u2019t be afraid of vulnerability.\n",
+     "formatting": {
+      "fontSize": 14.8509162125192,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#000000",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.37,
+      "letterSpacing": -0.022,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBCQcYws7ppRtXJl-LBCGZNNGngBnGKPn"
+  },
+  {
+   "id": "LBMrnbpspRqCbZhK",
+   "top": 235.7398522294084,
+   "left": 106.75817548956982,
+   "width": 277.0140889161025,
+   "height": 73.36166952070634,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Frank Ocean",
+     "formatting": {
+      "fontSize": 61.314951970329815,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#e67022",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.83,
+      "letterSpacing": -0.035,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBCQcYws7ppRtXJl-LBMrnbpspRqCbZhK"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBCQcYws7ppRtXJl"
+}

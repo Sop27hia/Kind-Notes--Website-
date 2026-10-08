@@ -1,0 +1,51 @@
+{
+ "type": "fixed",
+ "id": "PBP1KWLhHmH3HQdk",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBvVc67hw1Xh2jtM",
+   "top": 80.88188976377955,
+   "left": 80.88188976377955,
+   "width": 647.0551181102362,
+   "height": 975.8740157480315,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBP1KWLhHmH3HQdk-LBvVc67hw1Xh2jtM-a"
+    },
+    {
+     "id": "b",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBP1KWLhHmH3HQdk-LBvVc67hw1Xh2jtM-b"
+    }
+   ],
+   "templateAreas": [
+    "a",
+    "b"
+   ],
+   "locator_id": "PBP1KWLhHmH3HQdk-LBvVc67hw1Xh2jtM"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBP1KWLhHmH3HQdk"
+}

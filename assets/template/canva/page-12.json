@@ -1,0 +1,356 @@
+{
+ "type": "fixed",
+ "id": "PBhkPsFz5RzFRpCR",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#10100f"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LB4cDkYNqsJmq5XF",
+   "top": 84.66141732283472,
+   "left": 534.7796951083994,
+   "width": 193.15731276561635,
+   "height": 685.6516022949102,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 375,
+    "height": 811.8
+   },
+   "paths": [
+    {
+     "d": "M375,19.8v772c0,11.05-8.95,20-20,20H20c-11.05,0-20-8.95-20-20v-772C0,9.66,7.55,1.31,17.32,0h340.36  C367.45,1.31,375,9.66,375,19.8z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 375,
+     "height": 811.8
+    },
+    "resizeCenter": {
+     "width": 277.9048494881148,
+     "height": 986.480411271132
+    }
+   },
+   "locator_id": "PBhkPsFz5RzFRpCR-LB4cDkYNqsJmq5XF"
+  },
+  {
+   "id": "LB35WnsMvQ1SQm9v",
+   "top": 202.29322496024406,
+   "left": 80.88188976377954,
+   "width": 184.0145463005197,
+   "height": 711.6612155709456,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 375,
+    "height": 811.8
+   },
+   "paths": [
+    {
+     "d": "M375,19.8v772c0,11.05-8.95,20-20,20H20c-11.05,0-20-8.95-20-20v-772C0,9.66,7.55,1.31,17.32,0h340.36  C367.45,1.31,375,9.66,375,19.8z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 375,
+     "height": 811.8
+    },
+    "resizeCenter": {
+     "width": 264.75070532443647,
+     "height": 1023.9017108286159
+    }
+   },
+   "locator_id": "PBhkPsFz5RzFRpCR-LB35WnsMvQ1SQm9v"
+  },
+  {
+   "id": "LB22hdh67MQTzmyj",
+   "top": 80.88188976377955,
+   "left": 284.8964360642992,
+   "width": 215.36263552336183,
+   "height": 975.8740157480318,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 262.3,
+    "height": 500
+   },
+   "paths": [
+    {
+     "d": "M251.4 0H10.9C4.9 0 0 5 0 11.1v477.8C0 495 4.9 500 10.9 500h240.5c6 0 10.9-5 10.9-11.1V11.1C262.3 5 257.4 0 251.4 0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 262.3,
+     "height": 500
+    },
+    "resizeCenter": {
+     "width": 190.84302209663673,
+     "height": 864.7681428041064
+    }
+   },
+   "locator_id": "PBhkPsFz5RzFRpCR-LB22hdh67MQTzmyj"
+  },
+  {
+   "id": "LBbNCTJVZYC1sqp2",
+   "top": 223.12797294300736,
+   "left": -34.919479167081874,
+   "width": 830.4036679020525,
+   "height": 299.80859313004373,
+   "rotation": 0,
+   "opacity": 0.52,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "The \n",
+     "formatting": {
+      "fontSize": 134.1586456425552,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.95,
+      "letterSpacing": -0.111,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    },
+    {
+     "characters": "Notebook",
+     "formatting": {
+      "fontSize": 145.3318970024956,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffe959",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.95,
+      "letterSpacing": -0.111,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBhkPsFz5RzFRpCR-LBbNCTJVZYC1sqp2"
+  },
+  {
+   "id": "LBtrHR4gYtVXFXvT",
+   "top": 831.2621949721346,
+   "left": 534.7796951083994,
+   "width": 189.87906249755085,
+   "height": 140.807875,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "So it\u2019s not gonna be easy. It\u2019s gonna be really hard. We\u2019re gonna have to work at this every day, but I want to do that because I want you. I want all of you, forever, you and me, every day.\n             - Noah",
+     "formatting": {
+      "fontSize": 12.7685,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.45,
+      "letterSpacing": 0,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBhkPsFz5RzFRpCR-LBtrHR4gYtVXFXvT"
+  },
+  {
+   "id": "LBf3thnpRbBGTRKs",
+   "top": 950.9544405311897,
+   "left": 95.54924859033305,
+   "width": 179.1992553057975,
+   "height": 49.790314,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "My dearest Allie...",
+     "formatting": {
+      "fontSize": 20.9686,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.21,
+      "letterSpacing": 0.068,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBhkPsFz5RzFRpCR-LBf3thnpRbBGTRKs"
+  },
+  {
+   "id": "LB8Rys74WY65B1fq",
+   "top": 88.44094488188983,
+   "left": 88.44094488188978,
+   "width": 232.90905803618142,
+   "height": 37.11274,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Release\nJune 25 2004",
+     "formatting": {
+      "fontSize": 14.4363,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.043,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBhkPsFz5RzFRpCR-LB8Rys74WY65B1fq"
+  },
+  {
+   "id": "LBNk0TVtpgZdNR22",
+   "top": 141.88749959961876,
+   "left": 88.44094488188978,
+   "width": 232.90905803618142,
+   "height": 37.11274,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "directed by\n",
+     "formatting": {
+      "fontSize": 14.4363,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.043,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    },
+    {
+     "characters": "Nick Cassavetes",
+     "formatting": {
+      "fontSize": 14.4363,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.043,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBhkPsFz5RzFRpCR-LBNk0TVtpgZdNR22"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBhkPsFz5RzFRpCR"
+}

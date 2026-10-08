@@ -1,15 +1,6 @@
-import { Pinyon_Script, EB_Garamond, Cormorant_Garamond } from "next/font/google";
 import TemplatePageCanvas from "@/components/template/TemplatePageCanvas";
+import { templateFontVars } from "@/components/template/fonts";
 import { customerText, getPage, TEMPLATE } from "@/lib/template-spec";
-
-const script = Pinyon_Script({ weight: "400", subsets: ["latin"], variable: "--font-script" });
-const bodyItalic = EB_Garamond({ style: "italic", subsets: ["latin"], variable: "--font-body-italic" });
-const displayItalic = Cormorant_Garamond({
-  weight: "400",
-  style: "italic",
-  subsets: ["latin"],
-  variable: "--font-display-italic",
-});
 
 export const metadata = {
   title: "Phase 0 — pagina 2",
@@ -30,7 +21,7 @@ export default function Phase0Page() {
 
   return (
     <div
-      className={`${script.variable} ${bodyItalic.variable} ${displayItalic.variable} min-h-screen bg-cream px-6 py-12`}
+      className={`${templateFontVars} min-h-screen bg-cream px-6 py-12`}
     >
       <div className="mx-auto max-w-5xl">
         <p className="font-sans text-xs uppercase tracking-[0.25em] text-stone">Phase 0</p>

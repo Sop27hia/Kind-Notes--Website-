@@ -1,0 +1,283 @@
+{
+ "type": "fixed",
+ "id": "PBcPhvgfrcFMcvhB",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBgpHGz9HPYl0V1g",
+   "top": 81.94040724243007,
+   "left": 397.46171721968653,
+   "width": 161.18077311377135,
+   "height": 974.8154982693811,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBcPhvgfrcFMcvhB-LBgpHGz9HPYl0V1g-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBgpHGz9HPYl0V1g"
+  },
+  {
+   "id": "LBG7ZsVT78dXZ2Qk",
+   "top": 80.88188976378001,
+   "left": 566.7562347602443,
+   "width": 161.18077311377135,
+   "height": 488.4662666133406,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBcPhvgfrcFMcvhB-LBG7ZsVT78dXZ2Qk-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBG7ZsVT78dXZ2Qk"
+  },
+  {
+   "id": "LBtyX7WwwZnj3cMD",
+   "top": 578.9109997636981,
+   "left": 566.7562347602443,
+   "width": 161.18077311377135,
+   "height": 474.63140484727444,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PBcPhvgfrcFMcvhB-LBtyX7WwwZnj3cMD-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBtyX7WwwZnj3cMD"
+  },
+  {
+   "id": "LB7bgLGvkZlNKvLf",
+   "top": 147.69636983377706,
+   "left": 94.13905978532006,
+   "width": 316.3290140810278,
+   "height": 146.80785633786135,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Fav \nHot  spots",
+     "formatting": {
+      "fontSize": 56.6827837232846,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.052,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LB7bgLGvkZlNKvLf"
+  },
+  {
+   "id": "LBQGfYxJhgtCWMqX",
+   "top": 353.222081307227,
+   "left": 80.88188976377961,
+   "width": 269.93407567044017,
+   "height": 99.53461417865978,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "1. Eiffel Tower & Trocad\u00e9ro\n Of course, no trip to Paris is complete without a photo in front of the Eiffel Tower! For the perfect shot, head to the Trocad\u00e9ro Gardens \u2014 the view is straight out of a postcard. Don\u2019t forget to stay until sunset; the tower lights up beautifully at night.",
+     "formatting": {
+      "fontSize": 12.470197114824577,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBQGfYxJhgtCWMqX"
+  },
+  {
+   "id": "LBzHdXzrDjnfx8l7",
+   "top": 469.81354219846077,
+   "left": 80.88188976377961,
+   "width": 269.93407567044017,
+   "height": 99.53461417865978,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "3. Montmartre & Sacr\u00e9-C\u0153ur\n Montmartre is the artsy heart of Paris. Wander through its winding streets, admire the colorful street art, and don\u2019t miss the view from the steps of Sacr\u00e9-C\u0153ur. Bonus: grab a crepe from a local stall and enjoy it while people-watching!",
+     "formatting": {
+      "fontSize": 12.470197114824577,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBzHdXzrDjnfx8l7"
+  },
+  {
+   "id": "LB7FVTDsLTNqyr4N",
+   "top": 594.8553197775268,
+   "left": 80.88188976377961,
+   "width": 269.93407567044017,
+   "height": 82.529838578389,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "4. Palais-Royal & Jardin du Palais-Royal\n For a more peaceful escape, visit the beautiful gardens and the chic columns of Palais-Royal. It\u2019s a perfect spot for photos or a quiet moment away from the busy city streets.",
+     "formatting": {
+      "fontSize": 12.470197114824577,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LB7FVTDsLTNqyr4N"
+  },
+  {
+   "id": "LBTnKZn60gXNwd8y",
+   "top": 711.3947095564572,
+   "left": 80.88188976377961,
+   "width": 269.93407567044017,
+   "height": 82.529838578389,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "6. Seine River & Bridges\n Take a stroll along the Seine, cross the charming bridges, and if you can, hop on a river cruise at sunset. Paris looks even more magical from the water.",
+     "formatting": {
+      "fontSize": 12.470197114824577,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBTnKZn60gXNwd8y"
+  },
+  {
+   "id": "LBtKqzLXSsxQs1Tm",
+   "top": 819.4317115352526,
+   "left": 80.88188976377961,
+   "width": 269.93407567044017,
+   "height": 99.53461417865978,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "5. Caf\u00e9 Culture & Pastries\n Paris isn\u2019t just about sights \u2014 it\u2019s about flavors. Stop at a tiny caf\u00e9 for a caf\u00e9 au lait, or try the best croissants, macarons, and \u00e9clairs. My personal favorite is sitting outside a caf\u00e9, watching the city pass by, and feeling like a true Parisian.",
+     "formatting": {
+      "fontSize": 12.470197114824577,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBcPhvgfrcFMcvhB-LBtKqzLXSsxQs1Tm"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBcPhvgfrcFMcvhB"
+}

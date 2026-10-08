@@ -1,0 +1,83 @@
+{
+ "type": "fixed",
+ "id": "PBsS1bXCK3bPJdvc",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBRqML0hB6gqvdhQ",
+   "top": 199.60755957157284,
+   "left": 100.30212110371548,
+   "width": 609.4890559825149,
+   "height": 834.5878292916924,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy birthday, my favorite person! \n I honestly don\u2019t even know where to start because there\u2019s just so much I could say about you. It\u2019s crazy to think how much we\u2019ve grown together \u2014 all the random nights that turned into core memories, the deep talks, the ugly laughing fits, and the times we just sat in silence but still understood each other perfectly.\nYou\u2019ve been there through so many of my chapters, and I can\u2019t imagine my story without you in it. You\u2019re not just my best friend; you\u2019re truly family to me. You bring so much light into people\u2019s lives \u2014 you have this rare mix of softness and strength that\u2019s just beautiful to see.\n\nEvery year you grow into a better version of yourself, even when you don\u2019t realize it. You\u2019ve handled things with so much grace, even the hard moments that no one else saw. I hope you take a second today to be proud of yourself \u2014 because I really am.\n\nYou deserve everything good this world has to offer. The love, the success, the peace, the adventures \u2014 all of it. I just know that amazing things are waiting for you, and I can\u2019t wait to see where life takes you next.\n\nThank you for being you. For being real, for being funny, for always hyping me up, and for making every ordinary moment feel special. I love how we can talk for hours or say nothing at all and still have the best time.\n\nHere\u2019s to another year of memories \u2014 more trips, spontaneous plans, matching outfits, and late-night talks about life and love. I\u2019m so proud of you, and I love you endlessly.\n\nHappy Birthday, beautiful. You truly deserve the world. \nLove you always,\n",
+     "formatting": {
+      "fontSize": 20.47760634940437,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YACgEQzTJgs,0"
+     }
+    }
+   ],
+   "locator_id": "PBsS1bXCK3bPJdvc-LBRqML0hB6gqvdhQ"
+  },
+  {
+   "id": "LBSSp7CwJwf1bkQW",
+   "top": 109.54511297476402,
+   "left": 80.88188976377955,
+   "width": 609.489055982515,
+   "height": 48.442294925421756,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Birthday letter for the reader",
+     "formatting": {
+      "fontSize": 40.95454077945014,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.056,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBsS1bXCK3bPJdvc-LBSSp7CwJwf1bkQW"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBsS1bXCK3bPJdvc"
+}

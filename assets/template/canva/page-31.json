@@ -1,0 +1,54 @@
+{
+ "type": "fixed",
+ "id": "PBG5XRCCg58VBFrP",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#e79db4"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBfRmr16tN7K1nkk",
+   "top": 326.2037868027194,
+   "left": 160.393010913936,
+   "width": 535.6842799923318,
+   "height": 457.8426580559463,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAG1oDUG8r4",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 535.6842799923318,
+      "height": 457.8426580559463,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBG5XRCCg58VBFrP-LBfRmr16tN7K1nkk"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBG5XRCCg58VBFrP"
+}

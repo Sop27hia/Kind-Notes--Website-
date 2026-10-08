@@ -1,0 +1,688 @@
+{
+ "type": "fixed",
+ "id": "PB1c8kBvpLWS3nL1",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBHhvmszCRqMdNFM",
+   "top": 255.5909073693195,
+   "left": 80.85892393837025,
+   "width": 652.2545087347112,
+   "height": 27.58124480913207,
+   "rotation": 179.90639235348195,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -169.18285366402105,
+      "left": -1.7053025658242404e-13,
+      "width": 652.2545087347112,
+      "height": 201.38357957184206,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": true,
+    "flipY": true
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBHhvmszCRqMdNFM"
+  },
+  {
+   "id": "LBWfl87lJzNb5Knp",
+   "top": 79.04218155495792,
+   "left": 80.80923788085346,
+   "width": 652.2537567872744,
+   "height": 34.16341335188224,
+   "rotation": 179.90639235348195,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -167.21993405618866,
+      "left": -5.684341886080802e-14,
+      "width": 652.2537567872744,
+      "height": 201.38334740807096,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBWfl87lJzNb5Knp"
+  },
+  {
+   "id": "LBygstNCpjtFZMS9",
+   "top": 109.92152791562103,
+   "left": 115.36491296607221,
+   "width": 570.90245855468,
+   "height": 7.072463245725875,
+   "rotation": -0.1735474106140389,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      },
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 292.44527556402204,
+     "height": 3.6228753823357778
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBygstNCpjtFZMS9"
+  },
+  {
+   "id": "LBCXC0sCP2Jv9SNg",
+   "top": 481.9203469825286,
+   "left": -163.294709080328,
+   "width": 632.5536018989216,
+   "height": 98.0141997283774,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "                   Wishes",
+     "formatting": {
+      "fontSize": 82.16349261198243,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.83,
+      "letterSpacing": -0.035,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LBCXC0sCP2Jv9SNg"
+  },
+  {
+   "id": "LBmdM8tf08f39dR0",
+   "top": 358.74643196723,
+   "left": 371.8502949498272,
+   "width": 221.21318299167794,
+   "height": 91.40688553083048,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Another year older, wiser, and even more beautiful (if that\u2019s even possible). I hope this year brings you all the happiness you deserve and more!\n \u2013 Bestie",
+     "formatting": {
+      "fontSize": 13.693915435330409,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LBmdM8tf08f39dR0"
+  },
+  {
+   "id": "LBX4wgFgtzVqcqQm",
+   "top": 478.80970484100806,
+   "left": 495.9391053365946,
+   "width": 221.21318299167794,
+   "height": 129.06515297798913,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy Birthday, my love! Watching you grow into the amazing person you are today has been such a joy. I\u2019m so proud of everything you\u2019ve become and everything that\u2019s still ahead.\n \u2013 Mom \n",
+     "formatting": {
+      "fontSize": 13.693915435330409,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LBX4wgFgtzVqcqQm"
+  },
+  {
+   "id": "LBck0676P990Q1wm",
+   "top": 669.8236137689528,
+   "left": 302.9630090301624,
+   "width": 314.9366973467417,
+   "height": 53.74861808367185,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "You make everyone\u2019s world brighter just by being in it. I hope today reminds you how loved you truly are.\n \u2013 Sister",
+     "formatting": {
+      "fontSize": 13.69391543533041,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LBck0676P990Q1wm"
+  },
+  {
+   "id": "LBVG2Dnf09MD4Pzn",
+   "top": 358.74643196723,
+   "left": 115.11450834498864,
+   "width": 187.84850068517383,
+   "height": 91.40688553083048,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "You\u2019ve always been a light in my life, kind, funny, and endlessly inspiring. I hope your day is filled with love, laughter, and all your favorite things.\n \u2013 Dad ",
+     "formatting": {
+      "fontSize": 13.693915435330409,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LBVG2Dnf09MD4Pzn"
+  },
+  {
+   "id": "LB79ZQs1DpRl1HCz",
+   "top": 601.3312895786097,
+   "left": 100.0830767832097,
+   "width": 187.84850068517383,
+   "height": 91.40688553083048,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy birthday, gorgeous! Never forget how strong, capable, and deserving you are of all the beautiful things in life.\n \u2013 Cousin ",
+     "formatting": {
+      "fontSize": 13.693915435330409,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB1c8kBvpLWS3nL1-LB79ZQs1DpRl1HCz"
+  },
+  {
+   "id": "LBxH4C4vnKXSHmBV",
+   "top": 1021.9363328676933,
+   "left": 80.93704756902241,
+   "width": 646.9448024997505,
+   "height": 33.86414535520874,
+   "rotation": -179.80715318839583,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -177.92247182526717,
+      "left": -30.43739936539913,
+      "width": 685.9485576695573,
+      "height": 211.78661718047582,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": true,
+    "flipY": true
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBxH4C4vnKXSHmBV"
+  },
+  {
+   "id": "LBvMPLn6dnMbr8Yb",
+   "top": 841.0613039399575,
+   "left": 80.93493102112092,
+   "width": 646.9490355955533,
+   "height": 32.60647557119102,
+   "rotation": -179.80715318839583,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -174.7623159466601,
+      "left": -20.911226020878303,
+      "width": 671.6398105841339,
+      "height": 207.36879151785132,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBvMPLn6dnMbr8Yb"
+  },
+  {
+   "id": "LB8mHR8p8YYr9d2W",
+   "top": 110.00980108956135,
+   "left": 275.0730695355159,
+   "width": 216.57396326735739,
+   "height": 148.73419658225234,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 33.60197096689802,
+     "height": 23.076468103287567
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LB8mHR8p8YYr9d2W"
+  },
+  {
+   "id": "LBNg9Tpzhv74rGNy",
+   "top": 110.00980108956135,
+   "left": 486.5493886785026,
+   "width": 241.38761919551303,
+   "height": 147.80594077407275,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 37.45186932726179,
+     "height": 22.93244698345518
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBNg9Tpzhv74rGNy"
+  },
+  {
+   "id": "LBMCgtlKk3zVJkmd",
+   "top": 867.8773984535426,
+   "left": 80.78176570130906,
+   "width": 234.73234998597886,
+   "height": 159.06507119956396,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 36.419288312527414,
+     "height": 24.679328131872964
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBMCgtlKk3zVJkmd"
+  },
+  {
+   "id": "LBVZSwhP9GNFVDDC",
+   "top": 867.8773984535426,
+   "left": 311.7345881282328,
+   "width": 238.3735400857084,
+   "height": 159.06507119956396,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 36.984227708612764,
+     "height": 24.679328131872964
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBVZSwhP9GNFVDDC"
+  },
+  {
+   "id": "LBn1MC4YzvW46h0d",
+   "top": 867.8773984535426,
+   "left": 550.1081282139412,
+   "width": 182.92652378444504,
+   "height": 159.06507119956407,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 28.381489854773108,
+     "height": 24.67932813187298
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBn1MC4YzvW46h0d"
+  },
+  {
+   "id": "LBbHhTQF5qqS7pRZ",
+   "top": 110.0098010895614,
+   "left": 80.78176570130904,
+   "width": 216.57396326735739,
+   "height": 148.73419658225234,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 33.60197096689802,
+     "height": 23.076468103287567
+    }
+   },
+   "locator_id": "PB1c8kBvpLWS3nL1-LBbHhTQF5qqS7pRZ"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PB1c8kBvpLWS3nL1"
+}

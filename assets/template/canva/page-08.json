@@ -1,0 +1,674 @@
+{
+ "type": "fixed",
+ "id": "PBS6Vgw7DVkS780q",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBZ8WmZ2TfnFf8BS",
+   "top": 267.42939587612005,
+   "left": 73.74566099927313,
+   "width": 658.8289967399735,
+   "height": 27.859253716298692,
+   "rotation": 179.90639235348195,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -170.88815524065234,
+      "left": -1.7053025658242404e-13,
+      "width": 658.8289967399735,
+      "height": 203.41345274346682,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": true,
+    "flipY": true
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBZ8WmZ2TfnFf8BS"
+  },
+  {
+   "id": "LB7X6t7lGmLDC77M",
+   "top": 1021.9363328676933,
+   "left": 80.93704756902241,
+   "width": 646.9448024997505,
+   "height": 33.86414535520874,
+   "rotation": -179.80715318839583,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -177.92247182526717,
+      "left": -30.43739936539913,
+      "width": 685.9485576695573,
+      "height": 211.78661718047582,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": true,
+    "flipY": true
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LB7X6t7lGmLDC77M"
+  },
+  {
+   "id": "LBlPmKPQdTpzhsMR",
+   "top": 80.8688874265795,
+   "left": 80.90933929175588,
+   "width": 651.7159556160452,
+   "height": 34.13524467746275,
+   "rotation": 179.90639235348195,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -167.0820566189911,
+      "left": -5.684341886080802e-14,
+      "width": 651.7159556160452,
+      "height": 201.21730129645394,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBlPmKPQdTpzhsMR"
+  },
+  {
+   "id": "LB8PK1YMPLtDYCv6",
+   "top": 841.0613039399575,
+   "left": 80.93493102112092,
+   "width": 646.9490355955533,
+   "height": 32.60647557119102,
+   "rotation": -179.80715318839583,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEGr2lWvM0",
+     "imageBox": {
+      "top": -174.7623159466601,
+      "left": -20.911226020878303,
+      "width": 671.6398105841339,
+      "height": 207.36879151785132,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LB8PK1YMPLtDYCv6"
+  },
+  {
+   "id": "LBl6TDpSPVLBvy3G",
+   "top": 111.69735600486976,
+   "left": 112.78424346385293,
+   "width": 619.802525356458,
+   "height": 7.678247859168717,
+   "rotation": -0.1735474106140389,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      },
+      "isMediaReplaceable": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [
+    {
+     "textRegions": []
+    }
+   ],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 292.44527556402204,
+     "height": 3.6228753823357778
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBl6TDpSPVLBvy3G"
+  },
+  {
+   "id": "LBrThQzZwQHtB3G3",
+   "top": 109.7273522716264,
+   "left": 78.21349683848683,
+   "width": 210.26657411022018,
+   "height": 164.182664179983,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 32.623364378471635,
+     "height": 25.473334983639162
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBrThQzZwQHtB3G3"
+  },
+  {
+   "id": "LBZcMl8kWMl100tw",
+   "top": 482.56939176649024,
+   "left": 80.88188976377955,
+   "width": 955.0746728053637,
+   "height": 98.20565591037767,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Birthday ",
+     "formatting": {
+      "fontSize": 82.32398679179406,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.83,
+      "letterSpacing": -0.035,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBS6Vgw7DVkS780q-LBZcMl8kWMl100tw"
+  },
+  {
+   "id": "LBdLhYLhmJg77hFf",
+   "top": 380.7110183676664,
+   "left": 183.34678389359692,
+   "width": 221.64529008984414,
+   "height": 67.68860850367003,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "You\u2019ve grown so much, yet you\u2019ve never lost that spark that makes you you. Keep shining, keep dreaming, and keep being amazing.\n",
+     "formatting": {
+      "fontSize": 12.577304344575062,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    },
+    {
+     "characters": " \u2013 Auntie ",
+     "formatting": {
+      "fontSize": 13.72066446529901,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBS6Vgw7DVkS780q-LBdLhYLhmJg77hFf"
+  },
+  {
+   "id": "LBYP2Drc1LYDHRxC",
+   "top": 537.0633127563308,
+   "left": 120.66665323137465,
+   "width": 221.64529008984414,
+   "height": 91.58543530587089,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy birthday, sunshine! Life just wouldn\u2019t be the same without your energy, your kindness, and your laugh. I\u2019m so lucky to know you.\n \u2013 Lea",
+     "formatting": {
+      "fontSize": 13.72066446529901,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBS6Vgw7DVkS780q-LBYP2Drc1LYDHRxC"
+  },
+  {
+   "id": "LBc2LJFdjmlj39kD",
+   "top": 657.374487456616,
+   "left": 394.6262298268242,
+   "width": 315.5518794102884,
+   "height": 91.58543530587089,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy birthday to my ride-or-die! You make every moment ten times more fun and every memory ten times more special. Here\u2019s to more late nights, inside jokes, and memories we\u2019ll never forget.\n \u2013 Your best friend ",
+     "formatting": {
+      "fontSize": 13.720664465299011,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBS6Vgw7DVkS780q-LBc2LJFdjmlj39kD"
+  },
+  {
+   "id": "LBK6Q5pqnChKLp5w",
+   "top": 373.5597622768832,
+   "left": 496.3874020620734,
+   "width": 221.64529008984414,
+   "height": 72.71952166608476,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Wishing you a year full of peace, new adventures, and beautiful moments that make your heart smile.\n \u2013 Grandma ",
+     "formatting": {
+      "fontSize": 13.72066446529901,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBS6Vgw7DVkS780q-LBK6Q5pqnChKLp5w"
+  },
+  {
+   "id": "LBLpk4jF2yJ78Czq",
+   "top": 864.0978708944874,
+   "left": 80.88188976377955,
+   "width": 234.63222592350837,
+   "height": 164.182664179983,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 36.403753823572856,
+     "height": 25.473334983639162
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBLpk4jF2yJ78Czq"
+  },
+  {
+   "id": "LBLCbYgFJ3cbSyCx",
+   "top": 109.7273522716264,
+   "left": 281.6122502582963,
+   "width": 242.53497814335705,
+   "height": 164.18266417998288,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 37.62988482585834,
+     "height": 25.47333498363915
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBLCbYgFJ3cbSyCx"
+  },
+  {
+   "id": "LBDkFypdwpVNK6rY",
+   "top": 864.0978708944874,
+   "left": 311.54363287893597,
+   "width": 242.53497814335705,
+   "height": 164.182664179983,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 37.62988482585834,
+     "height": 25.473334983639162
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBDkFypdwpVNK6rY"
+  },
+  {
+   "id": "LB4lJZHTmHyrwdTN",
+   "top": 109.7273522716264,
+   "left": 520.3677008425981,
+   "width": 212.28504359317932,
+   "height": 164.18266417998288,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 32.93653477042791,
+     "height": 25.47333498363915
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LB4lJZHTmHyrwdTN"
+  },
+  {
+   "id": "LBKp503VsbTYlxx8",
+   "top": 864.0978708944874,
+   "left": 552.4021695319685,
+   "width": 175.5348383420472,
+   "height": 164.182664179983,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 27.23465209142995,
+     "height": 25.473334983639177
+    }
+   },
+   "locator_id": "PBS6Vgw7DVkS780q-LBKp503VsbTYlxx8"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBS6Vgw7DVkS780q"
+}

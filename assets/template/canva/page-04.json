@@ -1,0 +1,101 @@
+{
+ "type": "fixed",
+ "id": "PB9VL1X6hXp8PfS6",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#4d0423"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LB7t4cqVggxXZWWL",
+   "top": 80.88188976377955,
+   "left": 80.88188976377967,
+   "width": 647.0551181102361,
+   "height": 975.8740157480315,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-a"
+    },
+    {
+     "id": "b",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-b"
+    },
+    {
+     "id": "c",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-c"
+    },
+    {
+     "id": "d",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-d"
+    },
+    {
+     "id": "e",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-e"
+    },
+    {
+     "id": "f",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-f"
+    },
+    {
+     "id": "g",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-g"
+    },
+    {
+     "id": "h",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-h"
+    },
+    {
+     "id": "i",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL-i"
+    }
+   ],
+   "templateAreas": [
+    "a b c",
+    "d e f",
+    "g h i"
+   ],
+   "locator_id": "PB9VL1X6hXp8PfS6-LB7t4cqVggxXZWWL"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PB9VL1X6hXp8PfS6"
+}

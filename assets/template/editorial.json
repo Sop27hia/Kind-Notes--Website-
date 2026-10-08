@@ -1,0 +1,809 @@
+{
+ "_note": "The curated layer of the template spec.\n\nGeometry comes straight from Canva's own JSON in canva/. What Canva cannot tell us is editorial: which replaceable frames are real customer photo slots (as opposed to the stock art that is also technically replaceable), which text a customer writes, and what each page is called. That judgement was made by comparing the blank template against the filled magazine page by page, and it is what this file preserves. It was lifted out of the hand-transcribed spec that preceded canva/, which is why the wording of the placeholders is editorial rather than Canva's sample copy (that is kept alongside as source_text).",
+ "pages": {
+  "1": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LB641Yy0kn3G80fK"
+   ],
+   "text": {
+    "LBDPbD0jhX80VVkl": {
+     "role": "unclassified",
+     "placeholder": "Magazine"
+    },
+    "LBdTN693Bk7tHXCm": {
+     "role": "unclassified",
+     "placeholder": "Birthday"
+    },
+    "LBjh28816RZvwYkW": {
+     "role": "unclassified",
+     "placeholder": "Woman of the Year\n"
+    },
+    "LB6NpkQSkLQYZ4nJ": {
+     "role": "unclassified",
+     "placeholder": "21  BirthdayEdition"
+    },
+    "LBP6WN1F8ZLxvQdY": {
+     "role": "unclassified",
+     "placeholder": "July\n2025"
+    },
+    "LBtChl789rjMPkMN": {
+     "role": "unclassified",
+     "placeholder": "Top 10 Reasons... she is the best "
+    }
+   },
+   "slot_notes": {
+    "LB641Yy0kn3G80fK": "full-bleed cover photo"
+   }
+  },
+  "2": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LBSzjm7gHgRKnY33"
+   ],
+   "text": {
+    "LBgY23bZ9XdvctV1": {
+     "role": "unclassified",
+     "placeholder": "Happy Birthday"
+    },
+    "LBl64tJTKWVf16Nm": {
+     "role": "unclassified",
+     "placeholder": "Name Birthday Person"
+    },
+    "LBWmfT2g2dN08Nw2": {
+     "role": "unclassified",
+     "placeholder": "27   November  2004"
+    }
+   },
+   "slot_notes": {}
+  },
+  "3": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LBQf6QxJMHflyZY0"
+   ],
+   "text": {},
+   "slot_notes": {
+    "LBQf6QxJMHflyZY0": "single full-page photo frame"
+   }
+  },
+  "4": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LB7t4cqVggxXZWWL"
+   ],
+   "text": {},
+   "slot_notes": {
+    "LB7t4cqVggxXZWWL": "3x3 photo grid"
+   }
+  },
+  "5": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {
+    "LBSSp7CwJwf1bkQW": {
+     "role": "heading",
+     "placeholder": "Birthday letter for the reader"
+    },
+    "LBRqML0hB6gqvdhQ": {
+     "role": "customer-longform",
+     "placeholder": "<long birthday letter, ~1500 chars>"
+    }
+   },
+   "slot_notes": {}
+  },
+  "6": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LB7kx3s4PNvXVwSg",
+    "LBQ9fLvqRXbz0wm0",
+    "LBkKKXdk64D4qYlX",
+    "LBThl7XhFVr7nvt7",
+    "LBJ14NFTmFgmC7qr",
+    "LB3LxRVJvpC6FLm6"
+   ],
+   "text": {
+    "LBNTtlf83MkSw93j": {
+     "role": "heading",
+     "placeholder": "Mermories / of us",
+     "note": "two regions, two fonts; 'Mermories' is a typo in the source"
+    },
+    "LBkrmrxQ7b9LCW1D": {
+     "role": "customer-caption",
+     "placeholder": "We've shared so many laughs..."
+    },
+    "LBkg1sPDQW8B2S7b": {
+     "role": "customer-caption",
+     "placeholder": "Life feels lighter when you're around..."
+    },
+    "LBmXKfFGn2rTgm0d": {
+     "role": "customer-caption",
+     "placeholder": "From the smallest moments to the biggest adventures..."
+    }
+   },
+   "slot_notes": {
+    "LBThl7XhFVr7nvt7": "bleeds off right edge"
+   }
+  },
+  "7": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LBlvJ4c31ctW7wyZ",
+    "LBH2JdjXnzLh3dL4",
+    "LB76CBPCYj2t6mRv",
+    "LBKnrtDxqWsvxtXH",
+    "LBFjcLZxqcMwScXQ",
+    "LBmDkBDQsFJ3PMF6"
+   ],
+   "text": {
+    "LByX6rNdf6jC4R6v": {
+     "role": "customer-caption",
+     "placeholder": "Every crazy idea turns into the best story..."
+    },
+    "LBYvfM2tmMXgmd12": {
+     "role": "customer-caption",
+     "placeholder": "Some friends come and go..."
+    },
+    "LBrNqZvTMnhzhGWJ": {
+     "role": "customer-caption",
+     "placeholder": "The best memories are never planned..."
+    },
+    "LBjwJ2txDq6yxfDY": {
+     "role": "customer-caption",
+     "placeholder": "You've been my person through so many memories..."
+    }
+   },
+   "slot_notes": {
+    "LBmDkBDQsFJ3PMF6": "bleeds off left edge"
+   }
+  },
+  "8": {
+   "title": "",
+   "note": null,
+   "customer_slot_ids": [
+    "LBrThQzZwQHtB3G3",
+    "LBLCbYgFJ3cbSyCx",
+    "LB4lJZHTmHyrwdTN",
+    "LBLpk4jF2yJ78Czq",
+    "LBDkFypdwpVNK6rY",
+    "LBKp503VsbTYlxx8"
+   ],
+   "text": {
+    "LBZcMl8kWMl100tw": {
+     "role": "heading",
+     "placeholder": "Birthday"
+    },
+    "LBdLhYLhmJg77hFf": {
+     "role": "customer-wish",
+     "placeholder": "You've grown so much... – Auntie"
+    },
+    "LBK6Q5pqnChKLp5w": {
+     "role": "customer-wish",
+     "placeholder": "Wishing you a year full of peace... – Grandma"
+    },
+    "LBYP2Drc1LYDHRxC": {
+     "role": "customer-wish",
+     "placeholder": "Happy birthday, sunshine!... – Lea"
+    },
+    "LBc2LJFdjmlj39kD": {
+     "role": "customer-wish",
+     "placeholder": "Happy birthday to my ride-or-die!... – Your best friend"
+    }
+   },
+   "slot_notes": {
+    "LBrThQzZwQHtB3G3": "film strip top, frame 1",
+    "LBLCbYgFJ3cbSyCx": "film strip top, frame 2",
+    "LB4lJZHTmHyrwdTN": "film strip top, frame 3",
+    "LBLpk4jF2yJ78Czq": "film strip bottom, frame 1",
+    "LBDkFypdwpVNK6rY": "film strip bottom, frame 2",
+    "LBKp503VsbTYlxx8": "film strip bottom, frame 3"
+   }
+  },
+  "9": {
+   "title": "Wishes (2)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBbHhTQF5qqS7pRZ",
+    "LB8mHR8p8YYr9d2W",
+    "LBNg9Tpzhv74rGNy",
+    "LBMCgtlKk3zVJkmd",
+    "LBVZSwhP9GNFVDDC",
+    "LBn1MC4YzvW46h0d"
+   ],
+   "text": {
+    "LBCXC0sCP2Jv9SNg": {
+     "role": "heading",
+     "placeholder": "Wishes"
+    },
+    "LBVG2Dnf09MD4Pzn": {
+     "role": "customer-wish",
+     "placeholder": "<wish> – Dad"
+    },
+    "LBmdM8tf08f39dR0": {
+     "role": "customer-wish",
+     "placeholder": "<wish> – Bestie"
+    },
+    "LBX4wgFgtzVqcqQm": {
+     "role": "customer-wish",
+     "placeholder": "<wish> – Mom"
+    },
+    "LB79ZQs1DpRl1HCz": {
+     "role": "customer-wish",
+     "placeholder": "<wish> – Cousin"
+    },
+    "LBck0676P990Q1wm": {
+     "role": "customer-wish",
+     "placeholder": "<wish> – Sister"
+    }
+   },
+   "slot_notes": {}
+  },
+  "10": {
+   "title": "love (heart collage)",
+   "note": "19 photo frames arranged into a heart; one centre frame is the hero. Dense slot page.",
+   "customer_slot_ids": [
+    "LBQQwR8KlbB7d2nw",
+    "LBcS9rBvM6SCWpy2",
+    "LBc5Ht8FnRhd6b8v",
+    "LBfhMh4NJP0Y7zCD",
+    "LBGrK4vhq93YPyLP",
+    "LBXfF9y1RV5zspYV",
+    "LBsVXNjvhSpgxs8V",
+    "LB87BsQfwXk2D6VL",
+    "LBWp27LpRwJVfHYM",
+    "LBD9Y2dDblpbRtyv",
+    "LBc1hsPH7byCPskB",
+    "LBF2jFFQx5GPSB8t",
+    "LBZDyJ50kbdrM1gq",
+    "LBTg59GkNwlgrH4t",
+    "LByDgfqQbSn4lzxD",
+    "LBmNMrQgngW291FN",
+    "LBSSNRHz1Yrt4GSd",
+    "LBXRFFg8lxSGyYMM"
+   ],
+   "text": {},
+   "slot_notes": {
+    "LBfhMh4NJP0Y7zCD": "hero centre frame"
+   }
+  },
+  "11": {
+   "title": "Who is That girl",
+   "note": null,
+   "customer_slot_ids": [
+    "LBwfSjPFPfr3mD9l",
+    "LB9zFW5FH0p8K36q",
+    "LBKQg2dbrxK7Chl5"
+   ],
+   "text": {
+    "LBQRrgWk5rLKg2W1": {
+     "role": "heading",
+     "placeholder": "Who is / That girl"
+    },
+    "LBMKRhWgSQDTv47N": {
+     "role": "customer-longform",
+     "placeholder": "<Name> is curious, adventurous... (bio part 1)",
+     "note": "first region is bold 'Name' — the birthday person's name is its own text region"
+    },
+    "LBhJSVzT1fbhccTz": {
+     "role": "customer-longform",
+     "placeholder": "Her creativity shines... (bio part 2)"
+    }
+   },
+   "slot_notes": {
+    "LBwfSjPFPfr3mD9l": "tall left column"
+   }
+  },
+  "12": {
+   "title": "The Notebook (film-poster homage)",
+   "note": null,
+   "customer_slot_ids": [
+    "LB4cDkYNqsJmq5XF",
+    "LB35WnsMvQ1SQm9v",
+    "LB22hdh67MQTzmyj"
+   ],
+   "text": {
+    "LBbNCTJVZYC1sqp2": {
+     "role": "heading",
+     "placeholder": "The / Notebook"
+    },
+    "LB8Rys74WY65B1fq": {
+     "role": "customer-field",
+     "placeholder": "Release / June 25 2004"
+    },
+    "LBNk0TVtpgZdNR22": {
+     "role": "customer-field",
+     "placeholder": "directed by / Nick Cassavetes"
+    },
+    "LBtrHR4gYtVXFXvT": {
+     "role": "customer-quote",
+     "placeholder": "So it's not gonna be easy... - Noah"
+    },
+    "LBf3thnpRbBGTRKs": {
+     "role": "customer-quote",
+     "placeholder": "My dearest Allie..."
+    }
+   },
+   "slot_notes": {
+    "LB4cDkYNqsJmq5XF": "rounded phone-shaped frame",
+    "LB35WnsMvQ1SQm9v": "rounded phone-shaped frame",
+    "LB22hdh67MQTzmyj": "tall centre frame"
+   }
+  },
+  "13": {
+   "title": "Your Film favourite",
+   "note": null,
+   "customer_slot_ids": [
+    "LBbnYqFxFrbyN9FD",
+    "LBzqnR4Cq7R10YdM",
+    "LBCK3mXyNtyxq63B"
+   ],
+   "text": {
+    "LBk80447Gh0Wc8Dp": {
+     "role": "heading",
+     "placeholder": "Your Film favourite"
+    },
+    "LBPg9XdPXMR4ZZBD": {
+     "role": "customer-field",
+     "placeholder": "The Notebook / with Ryan Gosling & Rachel Mcadams"
+    },
+    "LBb2GW3D7t8NVpWC": {
+     "role": "customer-longform",
+     "placeholder": "<film synopsis col 1>"
+    },
+    "LBmhbfc39G74m80D": {
+     "role": "customer-longform",
+     "placeholder": "<film synopsis col 2>"
+    }
+   },
+   "slot_notes": {
+    "LBzqnR4Cq7R10YdM": "centre, larger"
+   }
+  },
+  "14": {
+   "title": "Favourite Artist",
+   "note": null,
+   "customer_slot_ids": [
+    "LBd8jKDqJyDJBtv5",
+    "LBsNBD1CqDHCW3hq",
+    "LBTxWV31T8jTxPMg"
+   ],
+   "text": {
+    "LBZtxr9w2B2zp4Wt": {
+     "role": "heading",
+     "placeholder": "Favourite   Artist"
+    },
+    "LBMrnbpspRqCbZhK": {
+     "role": "customer-field",
+     "placeholder": "Frank Ocean",
+     "note": "artist name"
+    },
+    "LBWfs8Cwtddn2qwl": {
+     "role": "customer-field",
+     "placeholder": "Frank Ocean",
+     "note": "vertical ghost repeat of artist name"
+    },
+    "LBxPnWmD79V3QJQr": {
+     "role": "customer-longform",
+     "placeholder": "<artist bio col 1>"
+    },
+    "LBCGZNNGngBnGKPn": {
+     "role": "customer-longform",
+     "placeholder": "<artist bio col 2>"
+    }
+   },
+   "slot_notes": {}
+  },
+  "15": {
+   "title": "Artist photo wall",
+   "note": null,
+   "customer_slot_ids": [
+    "LB9JwGmkgY7YbVgR",
+    "LB0dHPLdzZ1ysTm9",
+    "LB8B7yQXR2MDn1H4",
+    "LBNfzXdkrJVJbnmV",
+    "LBDnKpv5vJfMcQqv"
+   ],
+   "text": {
+    "LBDWBctCcVm6ylvh": {
+     "role": "customer-field",
+     "placeholder": "Frank Ocean"
+    },
+    "LBSK3ff04gnqSG0K": {
+     "role": "customer-field",
+     "placeholder": "Frank Ocean"
+    }
+   },
+   "slot_notes": {}
+  },
+  "16": {
+   "title": "Photo grid (5-up)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBf9SYxTYl2Wk3yR"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "17": {
+   "title": "Photo grid (6-up)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBnDzNMVsDP0wkj8"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "18": {
+   "title": "Paris 2025 (chevron collage)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBSG5yGWzrBypPqR",
+    "LBhRNGz76dCbj6Xn",
+    "LBX8JZC3x8Hckxfp",
+    "LBh9NTkH69J7bJNY",
+    "LBQdBBlSWsqwCVj7"
+   ],
+   "text": {
+    "LB4xgDFBmgsqWfxY": {
+     "role": "customer-field",
+     "placeholder": "Paris / 2025",
+     "note": "trip name + year"
+    }
+   },
+   "slot_notes": {}
+  },
+  "19": {
+   "title": "Fav Hot spots (city guide)",
+   "note": "list items are numbered 1,3,4,6,5 in source order — numbering is baked into the copy, not generated",
+   "customer_slot_ids": [
+    "LBgpHGz9HPYl0V1g",
+    "LBG7ZsVT78dXZ2Qk",
+    "LBtyX7WwwZnj3cMD"
+   ],
+   "text": {
+    "LB7bgLGvkZlNKvLf": {
+     "role": "heading",
+     "placeholder": "Fav / Hot spots"
+    },
+    "LBQGfYxJhgtCWMqX": {
+     "role": "customer-list-item",
+     "placeholder": "1. <spot>"
+    },
+    "LBzHdXzrDjnfx8l7": {
+     "role": "customer-list-item",
+     "placeholder": "3. <spot>"
+    },
+    "LB7FVTDsLTNqyr4N": {
+     "role": "customer-list-item",
+     "placeholder": "4. <spot>"
+    },
+    "LBTnKZn60gXNwd8y": {
+     "role": "customer-list-item",
+     "placeholder": "6. <spot>"
+    },
+    "LBtKqzLXSsxQs1Tm": {
+     "role": "customer-list-item",
+     "placeholder": "5. <spot>"
+    }
+   },
+   "slot_notes": {}
+  },
+  "20": {
+   "title": "Things she Loves (title)",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {
+    "LB7vRsczXw9XccKm": {
+     "role": "heading",
+     "placeholder": "Things"
+    },
+    "LB5zKDv7qDrnBkRs": {
+     "role": "heading",
+     "placeholder": "she"
+    },
+    "LB0Rqq6BBMqTY9sZ": {
+     "role": "heading",
+     "placeholder": "Loves"
+    }
+   },
+   "slot_notes": {}
+  },
+  "21": {
+   "title": "Things she Loves (5 numbered)",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {
+    "LBNXQHQDBx0mYHCR": {
+     "role": "fixed-numeral",
+     "placeholder": "1"
+    },
+    "LBxVqk7ZM430NZ7D": {
+     "role": "fixed-numeral",
+     "placeholder": "2"
+    },
+    "LBv2yt6KzbkF48sf": {
+     "role": "fixed-numeral",
+     "placeholder": "3"
+    },
+    "LB1YJngYvFdjpM0s": {
+     "role": "fixed-numeral",
+     "placeholder": "4"
+    },
+    "LBlgBlCBdzgyLLqg": {
+     "role": "fixed-numeral",
+     "placeholder": "5"
+    },
+    "LB6S902FXzCs85RH": {
+     "role": "customer-label",
+     "placeholder": "Food"
+    },
+    "LBc8w6BBH7XPnDLF": {
+     "role": "customer-label",
+     "placeholder": "Flowers"
+    },
+    "LB2w1PFGHz21qQDP": {
+     "role": "customer-label",
+     "placeholder": "Music"
+    },
+    "LBvrYn3d80tXGSKp": {
+     "role": "customer-label",
+     "placeholder": "Travel"
+    },
+    "LBtldfBJNpmhjvsr": {
+     "role": "customer-label",
+     "placeholder": "Shopping"
+    },
+    "LB91xrc6nlh9LJxC": {
+     "role": "customer-caption",
+     "placeholder": "<desc 1>"
+    },
+    "LBLtDTRQtgdx7ZKr": {
+     "role": "customer-caption",
+     "placeholder": "<desc 2>"
+    },
+    "LBMG0mp7R8LBsz2D": {
+     "role": "customer-caption",
+     "placeholder": "<desc 3>"
+    },
+    "LBnQfRf7cY80FKXP": {
+     "role": "customer-caption",
+     "placeholder": "<desc 4>"
+    },
+    "LBgnxtftxCd6fZBy": {
+     "role": "customer-caption",
+     "placeholder": "<desc 5>"
+    }
+   },
+   "slot_notes": {}
+  },
+  "22": {
+   "title": "Full-bleed photo",
+   "note": null,
+   "customer_slot_ids": [
+    "LBLNjgTXpXQgBLHZ"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "23": {
+   "title": "Full-bleed photo",
+   "note": null,
+   "customer_slot_ids": [
+    "LBZgc5CPLNThJDvD"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "24": {
+   "title": "Full-bleed photo",
+   "note": null,
+   "customer_slot_ids": [
+    "LBWZFBl0wFRPg35f"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "25": {
+   "title": "Inside Her Bag (flat-lay)",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {
+    "LB6JSdB8FVT6G0Jj": {
+     "role": "heading",
+     "placeholder": "Inside  Her  Bag"
+    }
+   },
+   "slot_notes": {}
+  },
+  "26": {
+   "title": "Fashion icon 2025",
+   "note": null,
+   "customer_slot_ids": [
+    "LBfgkhlHByt7GHbr"
+   ],
+   "text": {
+    "LBlj9kYxclbzVpDk": {
+     "role": "customer-field",
+     "placeholder": "Fashion icon / 2025"
+    }
+   },
+   "slot_notes": {}
+  },
+  "27": {
+   "title": "Iconic",
+   "note": null,
+   "customer_slot_ids": [
+    "LBNcV72skMqrWMf2"
+   ],
+   "text": {
+    "LBSvZNV007Dk4rPW": {
+     "role": "heading",
+     "placeholder": "Iconic"
+    }
+   },
+   "slot_notes": {}
+  },
+  "28": {
+   "title": "Her Scents",
+   "note": "NO customer photo slots — decorative stickers only. Likely needs slots added, or is intentionally a divider.",
+   "customer_slot_ids": [],
+   "text": {
+    "LBMjFwsdsG2DNffJ": {
+     "role": "heading",
+     "placeholder": "Her  Scents"
+    }
+   },
+   "slot_notes": {}
+  },
+  "29": {
+   "title": "Beauty secrets",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {
+    "LBkpsrmJfBt3Sq2s": {
+     "role": "heading",
+     "placeholder": "Beauty secrets"
+    }
+   },
+   "slot_notes": {}
+  },
+  "30": {
+   "title": "Photo grid (2-up stacked)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBvVc67hw1Xh2jtM"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "31": {
+   "title": "Single photo on pink",
+   "note": null,
+   "customer_slot_ids": [],
+   "text": {},
+   "slot_notes": {}
+  },
+  "32": {
+   "title": "Story wall (14 rounded frames)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBVlVgyvSfxyWpYj",
+    "LB5rVn6pPX97XGFx",
+    "LBJcDBshz2TF4KdG",
+    "LBpGr9zzVdgNBWC0",
+    "LB9h0Kf97wFKf4L8",
+    "LBSLhW7x531h8STL",
+    "LBh67H64LqTTP5nX",
+    "LBT7pY7TYY5tRnhT",
+    "LB080HLLrFx6MRWz",
+    "LBSfChjgPVXFp1Zx",
+    "LBpqKkKSy6db5fKz",
+    "LBSrBQTtWfLCpYkZ",
+    "LBr3tB65ctjYxB3T",
+    "LB7Z4wVnpWJjL8pl"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "33": {
+   "title": "Top 10 Reasons... she is the best",
+   "note": null,
+   "customer_slot_ids": [
+    "LB0SqPzmWCM7Z8Mw",
+    "LBxWZrJ5BylcGSMM",
+    "LBhKnWxch456Dk4n",
+    "LBP968KwCK3gV7bP"
+   ],
+   "text": {
+    "LB0VqmDfHKTn5t72": {
+     "role": "heading",
+     "placeholder": "Top 10 Reasons... / she is the best"
+    },
+    "LByvttDxqFfhpR5b": {
+     "role": "customer-list-item",
+     "placeholder": "1. <reason>"
+    },
+    "LB7xzJqzk1WFFrQ3": {
+     "role": "customer-list-item",
+     "placeholder": "2. <reason>"
+    },
+    "LBTWkzv0nhYW1MM4": {
+     "role": "customer-list-item",
+     "placeholder": "3. <reason>"
+    },
+    "LBLy5c2zL3998wSx": {
+     "role": "customer-list-item",
+     "placeholder": "4. <reason>"
+    },
+    "LBL8Qd18s17R4wGD": {
+     "role": "customer-list-item",
+     "placeholder": "5. <reason>"
+    },
+    "LBFrKNsv7JVhWyQm": {
+     "role": "customer-list-item",
+     "placeholder": "6. <reason>"
+    },
+    "LBggSlYVnXclL2nG": {
+     "role": "customer-list-item",
+     "placeholder": "7. <reason>"
+    },
+    "LBWZ4QBwK9cZ7W4v": {
+     "role": "customer-list-item",
+     "placeholder": "8. <reason>"
+    },
+    "LB3flV1Jj7d74vrv": {
+     "role": "customer-list-item",
+     "placeholder": "9. <reason>"
+    },
+    "LBXwHzpSMmV3mgCx": {
+     "role": "customer-list-item",
+     "placeholder": "10. <reason>"
+    }
+   },
+   "slot_notes": {}
+  },
+  "34": {
+   "title": "Photo grid (3 stacked)",
+   "note": null,
+   "customer_slot_ids": [
+    "LBwDsYMRMgxvng6y"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "35": {
+   "title": "Full-page photo",
+   "note": null,
+   "customer_slot_ids": [
+    "LBkG7qffDddlPVBC"
+   ],
+   "text": {},
+   "slot_notes": {}
+  },
+  "36": {
+   "title": "Closing message",
+   "note": null,
+   "customer_slot_ids": [
+    "LBVrNWCnVhYLSPPm"
+   ],
+   "text": {
+    "LB3kSvT2zfJJ9V8r": {
+     "role": "customer-longform",
+     "placeholder": "Happy Birthday, my dear friend! ..."
+    },
+    "LBLhMbzMjCn67WYl": {
+     "role": "customer-field",
+     "placeholder": "27/11/25"
+    }
+   },
+   "slot_notes": {}
+  }
+ }
+}

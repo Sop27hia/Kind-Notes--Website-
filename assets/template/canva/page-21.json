@@ -1,0 +1,692 @@
+{
+ "type": "fixed",
+ "id": "PBbXXVrhk4X1Ytnb",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffc9da"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBWSVxS5QFpk3HQ8",
+   "top": 241.16738431396394,
+   "left": 296.2250669271547,
+   "width": 139.95021992841885,
+   "height": 175.9233919265917,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAG1PB_1xko",
+     "imageBox": {
+      "top": -5.3384506556500355,
+      "left": -1.4210854715202004e-14,
+      "width": 139.95021992841885,
+      "height": 186.60029323789175,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBWSVxS5QFpk3HQ8"
+  },
+  {
+   "id": "LBdjgRlxPP57PkcC",
+   "top": 344.61395753489194,
+   "left": 472.32931788435735,
+   "width": 201.3358215839164,
+   "height": 268.44776211188855,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAG1PPBBjTI",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 201.3358215839164,
+      "height": 268.44776211188855,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBdjgRlxPP57PkcC"
+  },
+  {
+   "id": "LBx2Mp6W2NZ9sqHd",
+   "top": 558.8345382784487,
+   "left": 91.70379383326019,
+   "width": 114.33802866370877,
+   "height": 115.58083332309691,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAGtXeapwnw",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 114.33802866370877,
+      "height": 115.58083332309691,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBx2Mp6W2NZ9sqHd"
+  },
+  {
+   "id": "LBjKsXy2nqwXq4pt",
+   "top": 821.6177510852815,
+   "left": 519.029313943605,
+   "width": 140.0449279711435,
+   "height": 194.86519961685445,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAG1PV8Af-I",
+     "imageBox": {
+      "top": -1.4210854715202004e-14,
+      "left": -3.07681578915043,
+      "width": 146.19855954944435,
+      "height": 194.86519961685445,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBjKsXy2nqwXq4pt"
+  },
+  {
+   "id": "LBvHcBcljxN3x7y1",
+   "top": 581.6958419673247,
+   "left": 230.98979057253922,
+   "width": 208.3409446318002,
+   "height": 260.01989969647445,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAG1PQVvJ24",
+     "imageBox": {
+      "top": -2.842170943040401e-14,
+      "left": -1.4210854715202004e-14,
+      "width": 208.34094463180023,
+      "height": 260.0198996964745,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBvHcBcljxN3x7y1"
+  },
+  {
+   "id": "LBNXQHQDBx0mYHCR",
+   "top": 125.2401237871727,
+   "left": 80.88188976377954,
+   "width": 39.15943059804755,
+   "height": 105.81770755598892,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "1",
+     "formatting": {
+      "fontSize": 88.38190411390663,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBNXQHQDBx0mYHCR"
+  },
+  {
+   "id": "LBxVqk7ZM430NZ7D",
+   "top": 125.24012378717273,
+   "left": 586.9910943954076,
+   "width": 35.93870931335306,
+   "height": 97.2820504197832,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "2",
+     "formatting": {
+      "fontSize": 81.11772758293247,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBxVqk7ZM430NZ7D"
+  },
+  {
+   "id": "LBv2yt6KzbkF48sf",
+   "top": 324.46314156365946,
+   "left": 115.3964132564688,
+   "width": 35.93870931335306,
+   "height": 97.2820504197832,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "3",
+     "formatting": {
+      "fontSize": 81.11772758293247,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBv2yt6KzbkF48sf"
+  },
+  {
+   "id": "LBlgBlCBdzgyLLqg",
+   "top": 625.7743463916539,
+   "left": 469.65107942844895,
+   "width": 35.93870931335306,
+   "height": 97.2820504197832,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "5",
+     "formatting": {
+      "fontSize": 81.11772758293247,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBlgBlCBdzgyLLqg"
+  },
+  {
+   "id": "LB1YJngYvFdjpM0s",
+   "top": 797.6761376835561,
+   "left": 97.8293343819256,
+   "width": 35.93870931335306,
+   "height": 97.2820504197832,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "4",
+     "formatting": {
+      "fontSize": 81.11772758293247,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAFdJpOISlU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LB1YJngYvFdjpM0s"
+  },
+  {
+   "id": "LB91xrc6nlh9LJxC",
+   "top": 145.69746557744443,
+   "left": 143.9608058838308,
+   "width": 234.6986578256359,
+   "height": 105.8174896252447,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Nothing beats a big plate of creamy, cheesy pasta, it\u2019s her ultimate comfort food! Whether it\u2019s a cozy dinner at home or a fancy Italian restaurant, pasta always makes her smile.",
+     "formatting": {
+      "fontSize": 15.739412368351015,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LB91xrc6nlh9LJxC"
+  },
+  {
+   "id": "LBLtDTRQtgdx7ZKr",
+   "top": 264.9900089703887,
+   "left": 487.61112013926623,
+   "width": 234.6986578256359,
+   "height": 105.8174896252447,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Fresh blooms make everything better. She adores colorful bouquets, delicate scents, and the little joy flowers bring to any space. They\u2019re her go-to for a happy, bright mood.",
+     "formatting": {
+      "fontSize": 15.739412368351015,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBLtDTRQtgdx7ZKr"
+  },
+  {
+   "id": "LBMG0mp7R8LBsz2D",
+   "top": 421.5099395496086,
+   "left": 100.46160506280333,
+   "width": 234.6986578256359,
+   "height": 114.65579808245515,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Music is her favorite form of art. It tells stories and translates feelings and thoughts in ways words never can. It inspires her. It might be her favourite thing ever!",
+     "formatting": {
+      "fontSize": 16.950108456846706,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBMG0mp7R8LBsz2D"
+  },
+  {
+   "id": "LBnQfRf7cY80FKXP",
+   "top": 713.984171925055,
+   "left": 469.6510794284489,
+   "width": 234.6986578256359,
+   "height": 105.8174896252447,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "New cities, cultures, and adventures are her ultimate thrill. Whether it\u2019s wandering cobblestone streets in Europe or relaxing on a sunny beach, travel fills her life with memories she\u2019ll never forget.",
+     "formatting": {
+      "fontSize": 15.739412368351015,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBnQfRf7cY80FKXP"
+  },
+  {
+   "id": "LBgnxtftxCd6fZBy",
+   "top": 894.9581881033392,
+   "left": 117.3824921035515,
+   "width": 234.6986578256359,
+   "height": 173.0128024195756,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "She loves hunting for hidden gems, whether it\u2019s fashion finds, cute accessories, or little treats for herself and friends. Shopping isn\u2019t just a hobby \u2014 it\u2019s a way to explore her style and have fun along the way.\n",
+     "formatting": {
+      "fontSize": 15.739412368351015,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    },
+    {
+     "characters": "\n",
+     "formatting": {
+      "fontSize": 16.950108456846706,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBgnxtftxCd6fZBy"
+  },
+  {
+   "id": "LBvrYn3d80tXGSKp",
+   "top": 674.4153716015455,
+   "left": 530.7921904294816,
+   "width": 88.59111762833655,
+   "height": 37.29042021401626,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Travel",
+     "formatting": {
+      "fontSize": 31.478643127748533,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBvrYn3d80tXGSKp"
+  },
+  {
+   "id": "LB6S902FXzCs85RH",
+   "top": 106.59491368016462,
+   "left": 206.04182249696896,
+   "width": 62.69765355535221,
+   "height": 37.29042021401626,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Food",
+     "formatting": {
+      "fontSize": 31.478643127748533,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LB6S902FXzCs85RH"
+  },
+  {
+   "id": "LBc8w6BBH7XPnDLF",
+   "top": 222.52217420695587,
+   "left": 550.8466561894198,
+   "width": 108.22758572532851,
+   "height": 37.29042021401626,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Flowers",
+     "formatting": {
+      "fontSize": 31.478643127748537,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBc8w6BBH7XPnDLF"
+  },
+  {
+   "id": "LB2w1PFGHz21qQDP",
+   "top": 375.8694166820362,
+   "left": 182.30551448246555,
+   "width": 77.7655214159053,
+   "height": 37.29042021401626,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Music",
+     "formatting": {
+      "fontSize": 31.478643127748537,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LB2w1PFGHz21qQDP"
+  },
+  {
+   "id": "LBtldfBJNpmhjvsr",
+   "top": 841.7157416637992,
+   "left": 169.88830946004214,
+   "width": 122.20296222499404,
+   "height": 37.29042021401626,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Shopping",
+     "formatting": {
+      "fontSize": 31.478643127748537,
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PBbXXVrhk4X1Ytnb-LBtldfBJNpmhjvsr"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBbXXVrhk4X1Ytnb"
+}

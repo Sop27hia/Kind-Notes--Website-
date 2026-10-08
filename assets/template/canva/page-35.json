@@ -1,0 +1,66 @@
+{
+ "type": "fixed",
+ "id": "PBG9ZHJfR37J34hH",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBkG7qffDddlPVBC",
+   "top": 45.26924153503194,
+   "left": 46.99665067966697,
+   "width": 714.5959473461338,
+   "height": 1040.2924262289616,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 298.5,
+    "height": 439.9
+   },
+   "paths": [
+    {
+     "d": "M12.5 12.5H286v414.9H12.5z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 298.5,
+     "height": 439.9
+    },
+    "resizeCenter": {
+     "width": 303.754479005848,
+     "height": 442.1988189499872
+    }
+   },
+   "locator_id": "PBG9ZHJfR37J34hH-LBkG7qffDddlPVBC"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBG9ZHJfR37J34hH"
+}

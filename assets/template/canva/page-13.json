@@ -1,0 +1,285 @@
+{
+ "type": "fixed",
+ "id": "PByscsRTdFncqXFD",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#000000"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBzqnR4Cq7R10YdM",
+   "top": 315.4882821423383,
+   "left": 266.37639669476675,
+   "width": 272.631168168378,
+   "height": 365.44397746652123,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PByscsRTdFncqXFD-LBzqnR4Cq7R10YdM-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBzqnR4Cq7R10YdM"
+  },
+  {
+   "id": "LBbnYqFxFrbyN9FD",
+   "top": 340.9303342635119,
+   "left": 80.88188976377964,
+   "width": 175.95162788873148,
+   "height": 314.5598732241737,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PByscsRTdFncqXFD-LBbnYqFxFrbyN9FD-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBbnYqFxFrbyN9FD"
+  },
+  {
+   "id": "LBCK3mXyNtyxq63B",
+   "top": 338.47379335114147,
+   "left": 548.2708609250114,
+   "width": 179.6661469490043,
+   "height": 314.5598732241737,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PByscsRTdFncqXFD-LBCK3mXyNtyxq63B-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBCK3mXyNtyxq63B"
+  },
+  {
+   "id": "LBtLTkXCX9PJ1nKS",
+   "top": 1035.0668919296813,
+   "left": 13.499138640438503,
+   "width": 795.3139301838423,
+   "height": 1.970419172932451,
+   "rotation": 0,
+   "opacity": 0.35,
+   "isLocked": false,
+   "type": "line",
+   "stroke": {
+    "weight": 2,
+    "color": {
+     "type": "solid",
+     "color": "#ffe959"
+    }
+   },
+   "geometry": "straight",
+   "textContents": [],
+   "start": {
+    "marker": "NONE",
+    "top": 1036.0521015161476,
+    "left": 13.499138640438469,
+    "isConnected": false
+   },
+   "end": {
+    "marker": "NONE",
+    "top": 1036.0521015161476,
+    "left": 808.8130688242808,
+    "isConnected": false
+   },
+   "locator_id": "PByscsRTdFncqXFD-LBtLTkXCX9PJ1nKS"
+  },
+  {
+   "id": "LBJY4c5S4xlRCQLZ",
+   "top": 105.52393342484926,
+   "left": 9.265060161620909,
+   "width": 795.3139301838426,
+   "height": 1.970419172932451,
+   "rotation": 0,
+   "opacity": 0.35,
+   "isLocked": false,
+   "type": "line",
+   "stroke": {
+    "weight": 2,
+    "color": {
+     "type": "solid",
+     "color": "#ffe959"
+    }
+   },
+   "geometry": "straight",
+   "textContents": [],
+   "start": {
+    "marker": "NONE",
+    "top": 106.50914301131549,
+    "left": 9.265060161620891,
+    "isConnected": false
+   },
+   "end": {
+    "marker": "NONE",
+    "top": 106.50914301131549,
+    "left": 804.5789903454635,
+    "isConnected": false
+   },
+   "locator_id": "PByscsRTdFncqXFD-LBJY4c5S4xlRCQLZ"
+  },
+  {
+   "id": "LBk80447Gh0Wc8Dp",
+   "top": 133.36147970287038,
+   "left": 117.97574435504538,
+   "width": 597.186515231511,
+   "height": 68.11182841665084,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Your Film favourite",
+     "formatting": {
+      "fontSize": 57.286913251436765,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#ffffff",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.11,
+      "letterSpacing": 0,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBk80447Gh0Wc8Dp"
+  },
+  {
+   "id": "LBPg9XdPXMR4ZZBD",
+   "top": 216.31769393309048,
+   "left": 177.29127086892524,
+   "width": 435.56997778173644,
+   "height": 43.87842858037866,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "The Notebook\nwith Ryan Gosling & Rachel Mcadams",
+     "formatting": {
+      "fontSize": 18.72855336065249,
+      "fontWeight": "bold",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.2,
+      "letterSpacing": 0.03,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBPg9XdPXMR4ZZBD"
+  },
+  {
+   "id": "LBb2GW3D7t8NVpWC",
+   "top": 755.1284493581537,
+   "left": 104.073825449152,
+   "width": 284.6867505560234,
+   "height": 245.63013351725493,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "The Notebook is a romantic drama based on Nicholas Sparks\u2019 novel. It tells the story of Noah Calhoun and Allie Hamilton, two young lovers from very different social backgrounds, and follows their journey through love, separation, and enduring devotion. They fall in love one summer, but circumstances and family expectations force them apart. Noah writes letters to Allie, but she never receives them, and years later, she becomes engaged to another man. When they reunite, their love is reignited, showing that true connection can survive time and obstacles.",
+     "formatting": {
+      "fontSize": 13.99044617707732,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.37,
+      "letterSpacing": -0.022,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBb2GW3D7t8NVpWC"
+  },
+  {
+   "id": "LBmhbfc39G74m80D",
+   "top": 755.1284493581536,
+   "left": 410.5168049218415,
+   "width": 284.68675055602336,
+   "height": 264.7077111608978,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "The story alternates between their youthful romance and their lives as an elderly couple, emphasizing the lifelong impact of love and memory. Director Nick Cassavetes wanted the audience to understand that love is not just about passion but also about patience, forgiveness, and commitment. The film shows that love can transcend social differences, misunderstandings, and life\u2019s challenges, and that expressing feelings honestly is essential. Ultimately, the message of the movie is that true love may not be easy or perfect, but it is worth fighting for every day, and life is too short not to cherish it.",
+     "formatting": {
+      "fontSize": 13.99044617707732,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#ffffff",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.37,
+      "letterSpacing": -0.022,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PByscsRTdFncqXFD-LBmhbfc39G74m80D"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PByscsRTdFncqXFD"
+}

@@ -1,0 +1,223 @@
+{
+ "type": "fixed",
+ "id": "PB5V0DWbfnfByT1S",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBwfSjPFPfr3mD9l",
+   "top": 81.94040724242961,
+   "left": 387.9747537788456,
+   "width": 167.65116087449124,
+   "height": 974.8154982693814,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB5V0DWbfnfByT1S-LBwfSjPFPfr3mD9l-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LBwfSjPFPfr3mD9l"
+  },
+  {
+   "id": "LB9zFW5FH0p8K36q",
+   "top": 80.8818897637795,
+   "left": 564.0653745585796,
+   "width": 167.65116087449124,
+   "height": 488.46626661334074,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB5V0DWbfnfByT1S-LB9zFW5FH0p8K36q-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LB9zFW5FH0p8K36q"
+  },
+  {
+   "id": "LBKQg2dbrxK7Chl5",
+   "top": 578.9109997636976,
+   "left": 564.0653745585796,
+   "width": 167.65116087449124,
+   "height": 474.63140484727455,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "grid",
+   "cells": [
+    {
+     "id": "a",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "locator_id": "PB5V0DWbfnfByT1S-LBKQg2dbrxK7Chl5-a"
+    }
+   ],
+   "templateAreas": [
+    "a"
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LBKQg2dbrxK7Chl5"
+  },
+  {
+   "id": "LBQRrgWk5rLKg2W1",
+   "top": 152.79060275400508,
+   "left": 93.94423718242302,
+   "width": 316.32901408102794,
+   "height": 146.80785633786138,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Who is",
+     "formatting": {
+      "fontSize": 56.68278372328463,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    },
+    {
+     "characters": "\nThat  girl",
+     "formatting": {
+      "fontSize": 56.68278372328463,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#000000",
+      "textAlign": "start",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LBQRrgWk5rLKg2W1"
+  },
+  {
+   "id": "LBMKRhWgSQDTv47N",
+   "top": 351.5717159838356,
+   "left": 80.88188976377955,
+   "width": 269.9340756704402,
+   "height": 390.08955227021187,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Name",
+     "formatting": {
+      "fontSize": 13.60382048021663,
+      "fontWeight": "bold",
+      "fontStyle": "italic",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    },
+    {
+     "characters": " is curious, adventurous, and full of life \u2014 the kind of person who sees every day as a chance to explore, laugh, and make memories. She loves discovering new places, meeting fascinating people, and finding inspiration in the little things around her \u2014 whether it\u2019s through fashion, art, music, or just wandering around the city and noticing something beautiful she hadn\u2019t seen before.\n\nShe\u2019s independent and confident, but also incredibly caring and thoughtful. Friends know her as someone who lights up every room she enters, who listens without judgment, and who somehow makes even the simplest moments feel special. Whether it\u2019s a spontaneous trip with friends, a late-night deep conversation, or a silly adventure that makes everyone laugh until their stomach hurts, Leanna is always in the middle of the fun.\n",
+     "formatting": {
+      "fontSize": 13.60382048021663,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LBMKRhWgSQDTv47N"
+  },
+  {
+   "id": "LBhJSVzT1fbhccTz",
+   "top": 747.2203900214781,
+   "left": 80.88188976377955,
+   "width": 269.9340756704402,
+   "height": 184.33176750693534,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Her creativity shines in everything she does. She experiments with style, tries out new looks, and has an eye for making ordinary things extraordinary. From little surprises for friends to designing unique ideas, she leaves her personal touch wherever she goes. Even the smallest detail \u2014 like choosing the perfect playlist for a road trip or the cutest snack for movie night \u2014 becomes a reflection of her joyful and thoughtful personality.",
+     "formatting": {
+      "fontSize": 13.60382048021663,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PB5V0DWbfnfByT1S-LBhJSVzT1fbhccTz"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PB5V0DWbfnfByT1S"
+}

@@ -1,0 +1,499 @@
+{
+ "type": "fixed",
+ "id": "PB0qmSqWHbxCztB7",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#ffffff"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBlvJ4c31ctW7wyZ",
+   "top": 58.217852008157905,
+   "left": 532.5769799834223,
+   "width": 253.38090155959216,
+   "height": 294.5293199092226,
+   "rotation": 29.86862321775731,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 84.86802672882243
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBlvJ4c31ctW7wyZ"
+  },
+  {
+   "id": "LBH2JdjXnzLh3dL4",
+   "top": 337.4197409326317,
+   "left": 550.0201166621362,
+   "width": 253.38090155959216,
+   "height": 294.5293199092226,
+   "rotation": -67.52458116575434,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 84.86802672882243
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBH2JdjXnzLh3dL4"
+  },
+  {
+   "id": "LB76CBPCYj2t6mRv",
+   "top": 627.3794222048919,
+   "left": 228.43112445296015,
+   "width": 253.38090155959216,
+   "height": 294.5293199092226,
+   "rotation": 3.2019577929244964,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 84.86802672882243
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LB76CBPCYj2t6mRv"
+  },
+  {
+   "id": "LBKnrtDxqWsvxtXH",
+   "top": 732.7863613564496,
+   "left": 57.16628074348195,
+   "width": 253.38090155959216,
+   "height": 297.06686957238566,
+   "rotation": -101.77713086533082,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 85.59921652244097
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBKnrtDxqWsvxtXH"
+  },
+  {
+   "id": "LBFjcLZxqcMwScXQ",
+   "top": 531.3128815489716,
+   "left": 427.94439315586584,
+   "width": 253.38090155959216,
+   "height": 294.5293199092226,
+   "rotation": 8.845745769351089,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 84.86802672882243
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBFjcLZxqcMwScXQ"
+  },
+  {
+   "id": "LBmDkBDQsFJ3PMF6",
+   "top": 744.8837141070334,
+   "left": -170.94880604951044,
+   "width": 255.8943548634697,
+   "height": 326.9337358800062,
+   "rotation": 15.996430851759428,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 64,
+    "height": 64
+   },
+   "paths": [
+    {
+     "d": "M0 0H64V64H0z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 5,
+      "color": {
+       "type": "solid",
+       "color": "#ffffff"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "nineSlice": {
+    "sliceBox": {
+     "top": 0,
+     "left": 0,
+     "width": 64,
+     "height": 64
+    },
+    "resizeCenter": {
+     "width": 73.01119336017331,
+     "height": 93.27998743479321
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBmDkBDQsFJ3PMF6"
+  },
+  {
+   "id": "LBZmNp88xGtN5Gg3",
+   "top": -86.55199593505222,
+   "left": -96.84749135331265,
+   "width": 561.4084457531815,
+   "height": 202.4751771568851,
+   "rotation": -17.80447573782361,
+   "opacity": 0.5800000000000001,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAE-ODd4zbQ",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 561.4084457531815,
+      "height": 202.4751771568851,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LBZmNp88xGtN5Gg3"
+  },
+  {
+   "id": "LB1SlFRdNV5Xrxf2",
+   "top": 832.8288019269571,
+   "left": 336.7814455504282,
+   "width": 561.4084457531815,
+   "height": 375.49941945458704,
+   "rotation": 0,
+   "opacity": 0.4,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAE-OGL4QBw",
+     "imageBox": {
+      "top": 0,
+      "left": -5.684341886080802e-14,
+      "width": 561.4084457531816,
+      "height": 375.49941945458704,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PB0qmSqWHbxCztB7-LB1SlFRdNV5Xrxf2"
+  },
+  {
+   "id": "LByX6rNdf6jC4R6v",
+   "top": 234.29817523619226,
+   "left": 71.69188888457634,
+   "width": 335.11377648865727,
+   "height": 80.80087972944668,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Every crazy idea turns into the best story when it\u2019s with you. We\u2019re literally unstoppable together.\u201d",
+     "formatting": {
+      "fontSize": 20.39365260665973,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB0qmSqWHbxCztB7-LByX6rNdf6jC4R6v"
+  },
+  {
+   "id": "LBjwJ2txDq6yxfDY",
+   "top": 904.5710544879812,
+   "left": 430.74149840856705,
+   "width": 228.5259323546513,
+   "height": 68.13945900134657,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "You\u2019ve been my person through so many memories \u2014 and I know you\u2019ll be there for all the ones still to come.\n",
+     "formatting": {
+      "fontSize": 12.967747704844738,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB0qmSqWHbxCztB7-LBjwJ2txDq6yxfDY"
+  },
+  {
+   "id": "LBYvfM2tmMXgmd12",
+   "top": 368.09505933883395,
+   "left": 247.53968577792006,
+   "width": 228.5259323546513,
+   "height": 98.7904588417702,
+   "rotation": 1.7763568394002505e-15,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Some friends come and go, but you\u2019ve been here through everything. You\u2019re stuck with me for life.",
+     "formatting": {
+      "fontSize": 18.86201772293657,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB0qmSqWHbxCztB7-LBYvfM2tmMXgmd12"
+  },
+  {
+   "id": "LBrNqZvTMnhzhGWJ",
+   "top": 528.5112424281564,
+   "left": 77.3614144985094,
+   "width": 228.5259323546513,
+   "height": 50.4562068657677,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "The best memories are never planned, and somehow we always end up making the best ones.\u201d",
+     "formatting": {
+      "fontSize": 12.967747704844738,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#2e2e2e",
+      "textAlign": "justify",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.4,
+      "letterSpacing": -0.035,
+      "fontRef": "YAGL3riVrnU,0"
+     }
+    }
+   ],
+   "locator_id": "PB0qmSqWHbxCztB7-LBrNqZvTMnhzhGWJ"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PB0qmSqWHbxCztB7"
+}

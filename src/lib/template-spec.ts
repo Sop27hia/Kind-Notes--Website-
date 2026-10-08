@@ -19,21 +19,41 @@ export type Box = {
   rotation_deg?: number;
 };
 
+/** A Canva shape frame's outline, in its own viewBox coordinates. */
+export type SlotPath = {
+  d: string;
+  /** minX, minY, width, height */
+  viewBox: [number, number, number, number];
+};
+
 export type PhotoSlot = Box & {
   id: string;
-  kind: string;
+  kind: "grid" | "shape" | "rect" | string;
   capacity: number;
   cells?: string[];
   templateAreas?: string[] | null;
+  cell_labels?: Record<string, string>;
+  path?: SlotPath;
   stroke?: number;
   strokeColor?: string;
+  opacity?: number;
+  autofill_field_labels?: string[];
   note?: string;
+};
+
+/** Artwork baked into the master: tape, torn paper, film strips, stock props. */
+export type DecorItem = Box & {
+  id: string;
+  kind: string;
+  media_id?: string;
+  text?: string;
 };
 
 export type TextField = Box & {
   id: string;
   role: string;
   placeholder: string;
+  source_text?: string;
   fontSize: number | number[];
   fontRef: string | string[];
   color?: string;
@@ -51,8 +71,10 @@ export type TemplatePage = {
   title: string;
   background: string;
   photo_capacity: number;
+  note?: string;
   photo_slots: PhotoSlot[];
   text_fields: TextField[];
+  decor: DecorItem[];
   fixed_decor_count: number;
 };
 
@@ -66,6 +88,15 @@ export type TemplateSpec = {
     px_to_mm: number;
     trim_mm: { width: number; height: number };
     bleed_mm: number;
+    /** Canva does not expose the grid gutter; this was measured off two renders. */
+    grid_gap_px: number;
+    grid_gap_mm: number;
+  };
+  totals: {
+    photo_capacity: number;
+    slot_elements: number;
+    text_fields: number;
+    decor_elements: number;
   };
   pages: TemplatePage[];
 };
@@ -91,4 +122,34 @@ export function scaleToWidth(width: number): number {
 /** First font size / ref when an element carries several text regions. */
 export function primary<T>(v: T | T[]): T {
   return Array.isArray(v) ? v[0] : v;
+}
+
+/**
+ * Cell names of a grid slot, in the order `templateAreas` lays them out, so a
+ * grid that names its areas and one that only counts cells both iterate the
+ * same way.
+ */
+export function gridCells(slot: PhotoSlot): string[] {
+  if (slot.templateAreas?.length) {
+    const seen: string[] = [];
+    for (const row of slot.templateAreas) {
+      for (const name of row.split(/\s+/).filter(Boolean)) {
+        if (name !== "." && !seen.includes(name)) seen.push(name);
+      }
+    }
+    if (seen.length) return seen;
+  }
+  return slot.cells ?? [];
+}
+
+/** Content key for one cell of a grid slot. */
+export function cellKey(slot: PhotoSlot, cell: string): string {
+  return `${slot.id}:${cell}`;
+}
+
+/** Every fillable photo position on a page, grids expanded into their cells. */
+export function photoKeys(page: TemplatePage): string[] {
+  return page.photo_slots.flatMap((slot) =>
+    slot.cells?.length ? gridCells(slot).map((c) => cellKey(slot, c)) : [slot.id],
+  );
 }

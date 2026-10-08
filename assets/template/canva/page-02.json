@@ -1,0 +1,422 @@
+{
+ "type": "fixed",
+ "id": "PBvcYhvhTVHX5bZb",
+ "dimensions": {
+  "width": 809,
+  "height": 1138
+ },
+ "background": {
+  "color": {
+   "type": "solid",
+   "color": "#e0d2c6"
+  },
+  "isMediaReplaceable": true
+ },
+ "elements": [
+  {
+   "id": "LBSwXKNyyZhq3Vcw",
+   "top": 629.891840798349,
+   "left": 166.95549995204496,
+   "width": 321.7561441183489,
+   "height": 189.83612502982584,
+   "rotation": 1.4781259648975844,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAGVl8wntns",
+     "imageBox": {
+      "top": -1.4210854715202004e-14,
+      "left": 0,
+      "width": 321.7561441183489,
+      "height": 189.83612502982584,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBSwXKNyyZhq3Vcw"
+  },
+  {
+   "id": "LBVpQyr6dj5lBD15",
+   "top": 483.4131222216212,
+   "left": 330.2284793685177,
+   "width": 321.7561441183489,
+   "height": 198.95254911317906,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAGVl1SfHGM",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 321.7561441183489,
+      "height": 198.95254911317906,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBVpQyr6dj5lBD15"
+  },
+  {
+   "id": "LBCwcsWk7hGysLD6",
+   "top": 365.32886860798834,
+   "left": 173.51928451288654,
+   "width": 478.46533897398,
+   "height": 399.31919748536745,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFeaucL2PQ",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 478.46533897398,
+      "height": 399.31919748536745,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBCwcsWk7hGysLD6"
+  },
+  {
+   "id": "LBSzjm7gHgRKnY33",
+   "top": 375.0745655561268,
+   "left": 195.40572805306275,
+   "width": 415.6296624441679,
+   "height": 415.6296624441679,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "shape",
+   "viewBox": {
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1080
+   },
+   "paths": [
+    {
+     "d": "m1080,1080H0V0h1080v1080Z",
+     "fill": {
+      "isMediaReplaceable": true
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    },
+    {
+     "d": "m1080,1080H0V0h1080v1080Z",
+     "fill": {
+      "media": {
+       "type": "image",
+       "mediaId": "MAFtvoRK3WE",
+       "imageBox": {
+        "top": 0,
+        "left": 0,
+        "width": 415.6296624441678,
+        "height": 415.6296624441678,
+        "rotation": 0
+       }
+      },
+      "isMediaReplaceable": false,
+      "flipX": false,
+      "flipY": false
+     },
+     "stroke": {
+      "weight": 0,
+      "color": {
+       "type": "solid",
+       "color": "#000000"
+      }
+     },
+     "cornerRounding": 0
+    }
+   ],
+   "textContents": [],
+   "locator_id": "PBvcYhvhTVHX5bZb-LBSzjm7gHgRKnY33"
+  },
+  {
+   "id": "LB5Z2GCPwhzF0n2n",
+   "top": 268.25943195317285,
+   "left": 371.04250027725675,
+   "width": 64.35611799577966,
+   "height": 213.6302672059076,
+   "rotation": -90,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAEAJN44hB0",
+     "imageBox": {
+      "top": -2.842170943040401e-14,
+      "left": 0,
+      "width": 64.35611799577966,
+      "height": 213.63026720590764,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": true,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LB5Z2GCPwhzF0n2n"
+  },
+  {
+   "id": "LBz5gQzT3rZ9zrb4",
+   "top": 846.6698669628306,
+   "left": 611.0353904972304,
+   "width": 92.39484182822135,
+   "height": 50.12420169181008,
+   "rotation": -6.590928295270653,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAFSxHSTKaY",
+     "imageBox": {
+      "top": 0,
+      "left": 7.105427357601002e-15,
+      "width": 92.39484182822135,
+      "height": 50.124201691810086,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBz5gQzT3rZ9zrb4"
+  },
+  {
+   "id": "LBxjW1jq6959TW79",
+   "top": 757.5621758930756,
+   "left": 82.6533047005488,
+   "width": 64.04701569720059,
+   "height": 66.28410421443787,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MAE0_MBMJi4",
+     "imageBox": {
+      "top": 0,
+      "left": 0,
+      "width": 64.04701569720059,
+      "height": 66.28410421443787,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBxjW1jq6959TW79"
+  },
+  {
+   "id": "LBGr5F6Vm1Rvr3Fr",
+   "top": 284.7656014071209,
+   "left": 648.2050959278114,
+   "width": 74.18096945037999,
+   "height": 58.130905151115954,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "rect",
+   "fill": {
+    "media": {
+     "type": "image",
+     "mediaId": "MADtGkoni8E",
+     "imageBox": {
+      "top": 3.552713678800501e-15,
+      "left": 0,
+      "width": 74.18096945037999,
+      "height": 58.130905151115954,
+      "rotation": 0
+     }
+    },
+    "isMediaReplaceable": false,
+    "flipX": false,
+    "flipY": false
+   },
+   "stroke": {
+    "weight": 0,
+    "color": {
+     "type": "solid",
+     "color": "#000000"
+    }
+   },
+   "locator_id": "PBvcYhvhTVHX5bZb-LBGr5F6Vm1Rvr3Fr"
+  },
+  {
+   "id": "LBgY23bZ9XdvctV1",
+   "top": 82.56020620713186,
+   "left": 152.6665957076507,
+   "width": 483.8262649083628,
+   "height": 247.81720884475143,
+   "rotation": -2.903688945492428,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Happy Birthday",
+     "formatting": {
+      "fontSize": 95.88787732869636,
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "color": "#403e3e",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1.39,
+      "letterSpacing": 0,
+      "fontRef": "YAF3ubalrAg,0"
+     }
+    }
+   ],
+   "locator_id": "PBvcYhvhTVHX5bZb-LBgY23bZ9XdvctV1"
+  },
+  {
+   "id": "LBl64tJTKWVf16Nm",
+   "top": 927.826281096209,
+   "left": 247.70025396326662,
+   "width": 311.04061062376013,
+   "height": 29.466002769035278,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "Name Birthday Person",
+     "formatting": {
+      "fontSize": 26.151030500662767,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#403e3e",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 1,
+      "letterSpacing": -0.062,
+      "fontRef": "YALBszUSD-E,0"
+     }
+    }
+   ],
+   "locator_id": "PBvcYhvhTVHX5bZb-LBl64tJTKWVf16Nm"
+  },
+  {
+   "id": "LBWmfT2g2dN08Nw2",
+   "top": 871.7319678087357,
+   "left": 232.40845178735398,
+   "width": 341.6242149755854,
+   "height": 56.09431328747347,
+   "rotation": 0,
+   "opacity": 1,
+   "isLocked": false,
+   "type": "text",
+   "textRegions": [
+    {
+     "characters": "27   November  2004",
+     "formatting": {
+      "fontSize": 47.07215101046724,
+      "fontWeight": "normal",
+      "fontStyle": "italic",
+      "color": "#403e3e",
+      "textAlign": "center",
+      "decoration": "none",
+      "strikethrough": "none",
+      "link": "",
+      "listMarker": "none",
+      "listLevel": 0,
+      "lineHeight": 0.8,
+      "letterSpacing": -0.062,
+      "fontRef": "YAFcfq7XuZE,0"
+     }
+    }
+   ],
+   "locator_id": "PBvcYhvhTVHX5bZb-LBWmfT2g2dN08Nw2"
+  }
+ ],
+ "isEditable": true,
+ "locator_id": "PBvcYhvhTVHX5bZb"
+}
